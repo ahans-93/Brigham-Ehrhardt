@@ -1,0 +1,302 @@
+{
+  "scope": "Selected numerical examples only; not every textbook problem or formula",
+  "checks": [
+    {
+      "name": "Ch2 ST1 net income",
+      "actual": 2.4,
+      "expected": 2.4,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch2 ST1 NCF",
+      "actual": 3.4,
+      "expected": 3.4,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch2 ST1 NOPAT",
+      "actual": 3.0,
+      "expected": 3,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch2 ST1 NOWC",
+      "actual": 10,
+      "expected": 10,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch2 ST1 invested capital",
+      "actual": 25,
+      "expected": 25,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch2 ST1 FCF",
+      "actual": 2,
+      "expected": 2,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch2 ST1 ROIC",
+      "actual": 0.12,
+      "expected": 0.12,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch2 ST1 EVA",
+      "actual": 0.5,
+      "expected": 0.5,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST1 debt/assets",
+      "actual": 0.3333333333333333,
+      "expected": 0.3333333333333333,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST1 debt/equity",
+      "actual": 0.5714285714285714,
+      "expected": 0.5714285714285714,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST2 AR",
+      "actual": 1600.0,
+      "expected": 1600,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST2 CL",
+      "actual": 1000.0,
+      "expected": 1000,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST2 assets",
+      "actual": 7300.0,
+      "expected": 7300,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST2 equity",
+      "actual": 5840.0,
+      "expected": 5840,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST2 long-term debt",
+      "actual": 460.0,
+      "expected": 460,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch3 ST2 DuPont",
+      "actual": 0.125,
+      "expected": 0.125,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST1a FV",
+      "actual": 1259.7120000000002,
+      "expected": 1259.712,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST1b quarterly FV",
+      "actual": 1268.2417945625455,
+      "expected": 1268.24179456,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST1c FV annuity",
+      "actual": 1126.528000000001,
+      "expected": 1126.528,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST1d PMT",
+      "actual": 279.5563004204066,
+      "expected": 279.56,
+      "tolerance": 0.005,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST2 single deposit",
+      "actual": 793.8322410201696,
+      "expected": 793.83224102,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST2 PMT",
+      "actual": 221.92080445403914,
+      "expected": 221.92080445,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST2 year0 PV",
+      "actual": 735.0298527964533,
+      "expected": 735.0298528,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST2 lump FV",
+      "actual": 944.7840000000001,
+      "expected": 944.784,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST2 rate",
+      "actual": 0.10064241629820891,
+      "expected": 0.1006424163,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST3 EAR",
+      "actual": 0.08243215999999998,
+      "expected": 0.08243216,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch4 ST3 equivalent monthly APR",
+      "actual": 0.07947251472135619,
+      "expected": 0.079472485,
+      "tolerance": 1e-06,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch5 ST1 bond price",
+      "actual": 1182.559254605524,
+      "expected": 1182.5592546,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch5 ST1 current yield",
+      "actual": 0.10147483056993147,
+      "expected": 0.10147481,
+      "tolerance": 1e-07,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch6 ST2 initial beta",
+      "actual": 0.85,
+      "expected": 0.85,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch6 ST2 new beta",
+      "actual": 0.9299999999999999,
+      "expected": 0.93,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch6 ST2 initial CAPM",
+      "actual": 0.10250000000000001,
+      "expected": 0.1025,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch6 ST2 new CAPM",
+      "actual": 0.1065,
+      "expected": 0.1065,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch7 ST1 growth",
+      "actual": 0.05000000000000001,
+      "expected": 0.05,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Ch7 ST1 future price",
+      "actual": 45.94613625000001,
+      "expected": 45.94613625,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Guide WACC",
+      "actual": 0.0882,
+      "expected": 0.0882,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Guide NPV",
+      "actual": -0.5259203606311189,
+      "expected": -0.5259203606,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Guide terminal PV",
+      "actual": 913.6413753584708,
+      "expected": 913.64137536,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Guide bond price",
+      "actual": 924.1842646118309,
+      "expected": 924.18426461,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Guide CCC",
+      "actual": 75,
+      "expected": 75,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Guide conversion ratio",
+      "actual": 40.0,
+      "expected": 40,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    },
+    {
+      "name": "Guide conversion value",
+      "actual": 1200.0,
+      "expected": 1200,
+      "tolerance": 1e-05,
+      "status": "PASS"
+    }
+  ],
+  "passed": 42,
+  "all_passed": true,
+  "equivalent_monthly_apr_full_precision": 0.07947251472135619
+}

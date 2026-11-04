@@ -1,0 +1,42 @@
+# Daftar Isi
+
+- [Pengantar](README.md)
+- [Panduan belajar](KAJIAN.md)
+- [Register rumus dan derivasi](RUMUS_DAN_DERIVASI.md)
+- [Pembahasan soal sumber terpilih](PEMBAHASAN_SOAL.md)
+- [Inventaris sumber seluruh 26 bab](INVENTARIS_SUMBER.md)
+- [Status konversi](STATUS.md)
+- [Bagian awal, simbol, daftar isi, dan pengantar](00-front-matter.md) — PDF 1–39
+- [Chapter 1: An Overview of Financial Management and the Financial Environment](01-chapter.md) — PDF 40–93
+- [Chapter 2: Financial Statements, Cash Flow, and Taxes](02-chapter.md) — PDF 94–137
+- [Chapter 3: Analysis of Financial Statements](03-chapter.md) — PDF 138–175
+- [Chapter 4: Time Value of Money](04-chapter.md) — PDF 176–229
+- [Chapter 5: Bonds, Bond Valuation, and Interest Rates](05-chapter.md) — PDF 230–277
+- [Chapter 6: Risk and Return](06-chapter.md) — PDF 278–329
+- [Chapter 7: Corporate Valuation and Stock Valuation](07-chapter.md) — PDF 330–379
+- [Chapter 8: Financial Options and Applications in Corporate Finance](08-chapter.md) — PDF 380–411
+- [Chapter 9: The Cost of Capital](09-chapter.md) — PDF 412–449
+- [Chapter 10: The Basics of Capital Budgeting: Evaluating Cash Flows](10-chapter.md) — PDF 450–489
+- [Chapter 11: Cash Flow Estimation and Risk Analysis](11-chapter.md) — PDF 490–539
+- [Chapter 12: Corporate Valuation and Financial Planning](12-chapter.md) — PDF 540–577
+- [Chapter 13: Corporate Governance](13-chapter.md) — PDF 578–601
+- [Chapter 14: Distributions to Shareholders: Dividends and Repurchases](14-chapter.md) — PDF 602–643
+- [Chapter 15: Capital Structure Decisions](15-chapter.md) — PDF 644–691
+- [Chapter 16: Supply Chains and Working Capital Management](16-chapter.md) — PDF 692–741
+- [Chapter 17: Multinational Financial Management](17-chapter.md) — PDF 742–787
+- [Chapter 18: Public and Private Financing: Initial Offerings, Seasoned Offerings, and Investment Banks](18-chapter.md) — PDF 788–827
+- [Chapter 19: Lease Financing](19-chapter.md) — PDF 828–855
+- [Chapter 20: Hybrid Financing: Preferred Stock, Warrants, and Convertibles](20-chapter.md) — PDF 856–885
+- [Chapter 21: Dynamic Capital Structures and Corporate Valuation](21-chapter.md) — PDF 886–909
+- [Chapter 22: Mergers and Corporate Control](22-chapter.md) — PDF 910–947
+- [Chapter 23: Enterprise Risk Management](23-chapter.md) — PDF 948–983
+- [Chapter 24: Bankruptcy, Reorganization, and Liquidation](24-chapter.md) — PDF 984–1017
+- [Chapter 25: Portfolio Theory and Asset Pricing Models](25-chapter.md) — PDF 1018–1051
+- [Chapter 26: Real Options](26-chapter.md) — PDF 1052–1077
+- [Appendix A: Solutions to Self-Test Problems](27-appendix-a.md) — PDF 1078–1111
+- [Appendix B: Answers to End-of-Chapter Problems](28-appendix-b.md) — PDF 1112–1121
+- [Appendix C: Selected Equations](29-appendix-c.md) — PDF 1122–1135
+- [Appendix D: Standard Normal Distribution](30-appendix-d.md) — PDF 1136–1137
+- [Glossary](31-glossary.md) — PDF 1138–1185
+- [Name Index](32-name-index.md) — PDF 1186–1189
+- [Subject Index dan bagian akhir](33-subject-index-and-end.md) — PDF 1190–1221

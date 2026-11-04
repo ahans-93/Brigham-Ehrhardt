@@ -1,0 +1,226 @@
+{
+  "title": "Financial Management: Theory and Practice",
+  "edition": "15e",
+  "authors": [
+    "Eugene F. Brigham",
+    "Michael C. Ehrhardt"
+  ],
+  "copyright_year": 2017,
+  "isbn": "978-1-305-63229-5",
+  "source_library_file_id": "libfile_d76aaa99ecd08191a33736a4c6799386",
+  "source_pdf_size_bytes": 18123922,
+  "pdf_pages": 1221,
+  "extracted_lines": 80851,
+  "extracted_text_sha256": "4a4dc0866e48b11746226f649c4064c73bea258bcc32911e9ff3a1f1fac0efa4",
+  "segments": [
+    {
+      "file": "00-front-matter.md",
+      "title": "Bagian awal, simbol, daftar isi, dan pengantar",
+      "pdf_start": 1,
+      "pdf_end": 39
+    },
+    {
+      "file": "01-chapter.md",
+      "title": "Chapter 1: An Overview of Financial Management and the Financial Environment",
+      "pdf_start": 40,
+      "pdf_end": 93
+    },
+    {
+      "file": "02-chapter.md",
+      "title": "Chapter 2: Financial Statements, Cash Flow, and Taxes",
+      "pdf_start": 94,
+      "pdf_end": 137
+    },
+    {
+      "file": "03-chapter.md",
+      "title": "Chapter 3: Analysis of Financial Statements",
+      "pdf_start": 138,
+      "pdf_end": 175
+    },
+    {
+      "file": "04-chapter.md",
+      "title": "Chapter 4: Time Value of Money",
+      "pdf_start": 176,
+      "pdf_end": 229
+    },
+    {
+      "file": "05-chapter.md",
+      "title": "Chapter 5: Bonds, Bond Valuation, and Interest Rates",
+      "pdf_start": 230,
+      "pdf_end": 277
+    },
+    {
+      "file": "06-chapter.md",
+      "title": "Chapter 6: Risk and Return",
+      "pdf_start": 278,
+      "pdf_end": 329
+    },
+    {
+      "file": "07-chapter.md",
+      "title": "Chapter 7: Corporate Valuation and Stock Valuation",
+      "pdf_start": 330,
+      "pdf_end": 379
+    },
+    {
+      "file": "08-chapter.md",
+      "title": "Chapter 8: Financial Options and Applications in Corporate Finance",
+      "pdf_start": 380,
+      "pdf_end": 411
+    },
+    {
+      "file": "09-chapter.md",
+      "title": "Chapter 9: The Cost of Capital",
+      "pdf_start": 412,
+      "pdf_end": 449
+    },
+    {
+      "file": "10-chapter.md",
+      "title": "Chapter 10: The Basics of Capital Budgeting: Evaluating Cash Flows",
+      "pdf_start": 450,
+      "pdf_end": 489
+    },
+    {
+      "file": "11-chapter.md",
+      "title": "Chapter 11: Cash Flow Estimation and Risk Analysis",
+      "pdf_start": 490,
+      "pdf_end": 539
+    },
+    {
+      "file": "12-chapter.md",
+      "title": "Chapter 12: Corporate Valuation and Financial Planning",
+      "pdf_start": 540,
+      "pdf_end": 577
+    },
+    {
+      "file": "13-chapter.md",
+      "title": "Chapter 13: Corporate Governance",
+      "pdf_start": 578,
+      "pdf_end": 601
+    },
+    {
+      "file": "14-chapter.md",
+      "title": "Chapter 14: Distributions to Shareholders: Dividends and Repurchases",
+      "pdf_start": 602,
+      "pdf_end": 643
+    },
+    {
+      "file": "15-chapter.md",
+      "title": "Chapter 15: Capital Structure Decisions",
+      "pdf_start": 644,
+      "pdf_end": 691
+    },
+    {
+      "file": "16-chapter.md",
+      "title": "Chapter 16: Supply Chains and Working Capital Management",
+      "pdf_start": 692,
+      "pdf_end": 741
+    },
+    {
+      "file": "17-chapter.md",
+      "title": "Chapter 17: Multinational Financial Management",
+      "pdf_start": 742,
+      "pdf_end": 787
+    },
+    {
+      "file": "18-chapter.md",
+      "title": "Chapter 18: Public and Private Financing: Initial Offerings, Seasoned Offerings, and Investment Banks",
+      "pdf_start": 788,
+      "pdf_end": 827
+    },
+    {
+      "file": "19-chapter.md",
+      "title": "Chapter 19: Lease Financing",
+      "pdf_start": 828,
+      "pdf_end": 855
+    },
+    {
+      "file": "20-chapter.md",
+      "title": "Chapter 20: Hybrid Financing: Preferred Stock, Warrants, and Convertibles",
+      "pdf_start": 856,
+      "pdf_end": 885
+    },
+    {
+      "file": "21-chapter.md",
+      "title": "Chapter 21: Dynamic Capital Structures and Corporate Valuation",
+      "pdf_start": 886,
+      "pdf_end": 909
+    },
+    {
+      "file": "22-chapter.md",
+      "title": "Chapter 22: Mergers and Corporate Control",
+      "pdf_start": 910,
+      "pdf_end": 947
+    },
+    {
+      "file": "23-chapter.md",
+      "title": "Chapter 23: Enterprise Risk Management",
+      "pdf_start": 948,
+      "pdf_end": 983
+    },
+    {
+      "file": "24-chapter.md",
+      "title": "Chapter 24: Bankruptcy, Reorganization, and Liquidation",
+      "pdf_start": 984,
+      "pdf_end": 1017
+    },
+    {
+      "file": "25-chapter.md",
+      "title": "Chapter 25: Portfolio Theory and Asset Pricing Models",
+      "pdf_start": 1018,
+      "pdf_end": 1051
+    },
+    {
+      "file": "26-chapter.md",
+      "title": "Chapter 26: Real Options",
+      "pdf_start": 1052,
+      "pdf_end": 1077
+    },
+    {
+      "file": "27-appendix-a.md",
+      "title": "Appendix A: Solutions to Self-Test Problems",
+      "pdf_start": 1078,
+      "pdf_end": 1111
+    },
+    {
+      "file": "28-appendix-b.md",
+      "title": "Appendix B: Answers to End-of-Chapter Problems",
+      "pdf_start": 1112,
+      "pdf_end": 1121
+    },
+    {
+      "file": "29-appendix-c.md",
+      "title": "Appendix C: Selected Equations",
+      "pdf_start": 1122,
+      "pdf_end": 1135
+    },
+    {
+      "file": "30-appendix-d.md",
+      "title": "Appendix D: Standard Normal Distribution",
+      "pdf_start": 1136,
+      "pdf_end": 1137
+    },
+    {
+      "file": "31-glossary.md",
+      "title": "Glossary",
+      "pdf_start": 1138,
+      "pdf_end": 1185
+    },
+    {
+      "file": "32-name-index.md",
+      "title": "Name Index",
+      "pdf_start": 1186,
+      "pdf_end": 1189
+    },
+    {
+      "file": "33-subject-index-and-end.md",
+      "title": "Subject Index dan bagian akhir",
+      "pdf_start": 1190,
+      "pdf_end": 1221
+    }
+  ],
+  "binary_pdf_included": true,
+  "manual_formula_verification_complete": false,
+  "web_chapters_27_30_included": false,
+  "source_pdf_sha256": "1638b312422c14a3b870c27fd16f4498ba5ed3de8cb63ea278ad1ab4862ce56c",
+  "source_pdf_filename": "Financial_Management_Theory_and_Practice_15e.pdf"
+}
