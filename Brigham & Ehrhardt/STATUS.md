@@ -38,3 +38,7 @@ SHA-256 PDF asli: `1638b312422c14a3b870c27fd16f4498ba5ed3de8cb63ea278ad1ab4862ce
 Unggahan ulang terbaru diperiksa identitas edisi, ISBN, jumlah halaman, ukuran, dan konten terpilih. PDF arsip dipertahankan; pembandingan byte demi byte terhadap objek unggahan ulang tidak diklaim. Teks ekstraksi lama tetap menyimpan struktur per halaman; simbol atau tabel yang rusak dalam ekstraksi harus dirujuk ke PDF dan kajian terpisah.
 
 Koneksi HTTPS langsung terminal ke github.com:443 belum diperbaiki. Adaptor sesi menghubungkan permintaan Git dengan koneksi GitHub yang diotorisasi dan memverifikasi SHA remote sebelum menyatakan push sukses. Login browser tidak otomatis memberi autentikasi Git permanen. Tidak ada password/token disimpan di materi.
+
+## Pembaruan dari dua file kompilasi v2
+
+Sebanyak 197 entri kiriman sudah dipetakan; tersedia 12 kelompok kajian pendamping dan 50 entri dengan penjelasan/koreksi khusus. Seluruh 30 pemeriksaan numerik tambahan lulus, dan 340 pemeriksaan sebelumnya tetap lulus. Kajian lama dipertahankan. Lihat [status integrasi](kompilasi-v2/README.md). Markdown masukan dan ekstraksi lengkap isi Word disertakan; biner Word asli belum dapat diunduh. Pekerjaan ini tidak mengubah status penyelesaian seluruh soal buku.

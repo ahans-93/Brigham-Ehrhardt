@@ -1,0 +1,1102 @@
+<PARSED TEXT FOR PAGE: 1 / 19>
+Kompilasi Komprehensif Rumus Manajemen Keuangan
+Referensi Buku: Financial Management: Theory & Practice (15th Edition) — Eugene F. Brigham & Michael C.
+Ehrhardt
+Sumber Utama: Seluruh Rumus pada Setiap Bab & Appendix C (Selected Equations)
+
+Bab 1: An Overview of Financial Management and the Financial Environment
+Cakupan Buku: Halaman 3–56 (Selected Eq: Hal. 1085)
+
+ Nama Rumus / Konsep             Rumus Matematis                    Halaman Buku        Keterangan & Aplikasi
+
+ Fundamental / Intrinsic Value   Value = ∑_{t=1}^∞ [FCF_t / (1 +    Hal. 10, 53, 1085   Nilai wajar (intrinsik) entitas
+ of a Firm                       WACC)^t] = FCF_1/(1+WACC)^1                            perusahaan yang merupakan
+                                 + FCF_2/(1+WACC)^2 + ... +                             nilai sekarang dari seluruh
+                                 FCF_∞/(1+WACC)^∞                                       proyeksi arus kas bebas masa
+                                                                                        depan didiskontokan pada biaya
+                                                                                        modal rata-rata tertimbang
+                                                                                        (WACC).
+
+ Bid-Ask Spread                  Bid-Ask Spread = Ask Price - Bid   Hal. 32             Selisih harga penawaran
+                                 Price                                                  terendah (ask) dan harga
+                                                                                        permintaan tertinggi (bid) pada
+                                                                                        platform perdagangan pasar
+                                                                                        sekunder.
+
+
+
+Bab 2: Financial Statements, Cash Flow, and Taxes
+Cakupan Buku: Halaman 57–100 (Selected Eq: Hal. 1085–1086)
+
+ Nama Rumus / Konsep             Rumus Matematis                    Halaman Buku        Keterangan & Aplikasi
+
+ Earnings Before Interest and    EBIT = Sales Revenues -            Hal. 63, 1085       Laba usaha murni dari aktivitas
+ Taxes (EBIT)                    Operating Costs (termasuk                              operasi sebelum dikurangi
+                                 depresiasi & amortisasi)                               beban bunga utang dan beban
+                                                                                        pajak penghasilan.
+
+ EBITDA                          EBITDA = EBIT + Depreciation +     Hal. 64, 1085       Laba kotor operasional sebelum
+                                 Amortization                                           beban non-kas depresiasi,
+                                 atau EBITDA = Sales - Operating                        amortisasi, bunga, dan pajak.
+                                 Costs (tanpa
+                                 depresiasi/amortisasi)
+
+ Net Cash Flow                   Net Cash Flow = Net Income +       Hal. 70, 1085       Proksi kasar arus kas masuk
+                                 Depreciation and Amortization                          operasional jika penyesuaian
+                                                                                        modal kerja diabaikan.
+
+ Net Operating Working Capital   NOWC = Operating Current           Hal. 72–73, 1085    Modal kerja operasional bersih
+ (NOWC)                          Assets - Operating Current                             yang wajib didanai oleh
+                                 Liabilities                                            penyedia modal investor (tidak
+                                 NOWC = (Cash + Accounts                                memperhitungkan efek utang
+                                 Receivable + Inventories) -                            berbunga/notes payable
+                                 (Accounts Payable + Accruals)                          maupun kas
+                                                                                        non-operasional/investasi
+<PARSED TEXT FOR PAGE: 2 / 19>
+                                                                                      jangka pendek).
+
+Total Net Operating Capital      Total Net Operating Capital =     Hal. 73, 1085      Total modal operasional yang
+                                 NOWC + Net Plant and                                 terikat secara riil dalam
+                                 Equipment (Operating Long-                           mendukung aktivitas bisnis inti
+                                 Term Assets)                                         perusahaan.
+
+Total Investor-Supplied          Operating Capital = Total         Hal. 73–74         Metode pendanaan (financing
+Operating Capital                Investor-Supplied Capital -                          perspective) untuk menghitung
+                                 Short-Term Investments                               total modal operasi yang didanai
+                                 = (Notes Payable + Long-Term                         oleh pemegang utang dan
+                                 Bonds + Preferred Stock +                            ekuitas.
+                                 Common Equity) - Short-Term
+                                 Investments
+
+Net Operating Profit After       NOPAT = EBIT × (1 - Tax Rate)     Hal. 71–72, 1085   Laba operasional setelah pajak
+Taxes (NOPAT)                                                                         yang akan diperoleh jika
+                                                                                      perusahaan tidak memiliki utang
+                                                                                      sama sekali.
+
+Net Investment in Operating      Net Investment = Total Net        Hal. 74, 1085      Penambahan bersih aset modal
+Capital                          Operating Capital_t - Total Net                      operasi selama periode berjalan
+                                 Operating Capital_{t-1}                              yang mengurangi kas untuk
+                                                                                      investor.
+
+Free Cash Flow (FCF) -           FCF = NOPAT - Net Investment      Hal. 74, 1085      Arus kas bebas yang benar-
+Operating Definition             in Operating Capital                                 benar tersedia untuk
+                                                                                      didistribusikan kepada seluruh
+                                                                                      penanam modal.
+
+Free Cash Flow (FCF) - CapEx &   FCF = [EBIT(1 - T) +              Hal. 75, 1085      Formulasi alternatif FCF yang
+Working Capital Format           Depreciation] - [Gross                               sering digunakan analis
+                                 Investment in Fixed Assets] -                        keuangan dari laporan arus kas.
+                                 [ΔNOWC]
+                                 atau FCF = NOPAT + Depr -
+                                 CapEx - ΔNOWC
+
+Uses of Free Cash Flow           FCF = After-tax Interest + Net    Hal. 75–77         Rekonsiliasi 5 alokasi arus kas
+                                 Debt Repayment + Dividends +                         bebas kepada pemegang utang,
+                                 Net Stock Repurchases + Net                          pemegang ekuitas, dan investasi
+                                 Purchases of ST Investments                          non-operasional.
+
+Return on Invested Capital       ROIC = NOPAT / Total Net          Hal. 79, 1085      Persentase imbal hasil murni
+(ROIC)                           Operating Capital                                    dari operasi atas setiap unit
+                                                                                      modal operasi yang ditanamkan.
+
+Operating Profitability Ratio    OP = NOPAT / Sales                Hal. 79, 1085      Efisiensi profitabilitas
+(OP)                                                                                  operasional setelah pajak per
+                                                                                      dolar penjualan.
+
+Capital Requirement Ratio (CR)   CR = Total Net Operating          Hal. 79, 1085      Rasio intensitas modal operasi
+                                 Capital / Sales                                      yang dibutuhkan untuk
+                                                                                      menghasilkan satu dolar
+                                                                                      penjualan.
+
+Market Value Added (MVA) -       MVA = Market Value of Stock -     Hal. 81, 1085      Akumulasi penciptaan nilai
+Equity Focus                     Equity Capital Supplied by                           tambah pasar atas modal
+<PARSED TEXT FOR PAGE: 3 / 19>
+                                Shareholders                                          ekuitas yang disetorkan
+                                = (Shares Outstanding × Stock                         pemegang saham sejak berdiri.
+                                Price) - Total Common Equity
+
+ Market Value Added (MVA) -     MVA = (Market Value of Stock +       Hal. 81, 1085    Penciptaan nilai tambah pasar
+ Total Entity                   Market Value of Debt) - Total                         dari seluruh modal entitas
+                                Investor-Supplied Capital                             perusahaan.
+
+ Economic Value Added (EVA)     EVA = NOPAT - (Total Net             Hal. 80, 1086    Laba ekonomi riil per tahun
+                                Operating Capital × WACC)                             setelah memperhitungkan
+                                = Total Net Operating Capital ×                       seluruh biaya peluang atas
+                                (ROIC - WACC)                                         modal operasi (cost of capital).
+
+
+
+Bab 3: Analysis of Financial Statements
+Cakupan Buku: Halaman 101–136 (Selected Eq: Hal. 1086–1087)
+
+ Nama Rumus / Konsep            Rumus Matematis                      Halaman Buku     Keterangan & Aplikasi
+
+ Current Ratio                  Current Ratio = Current Assets /     Hal. 104, 1086   Mengukur kemampuan aset
+                                Current Liabilities                                   likuid jangka pendek menutupi
+                                                                                      kewajiban lancar.
+
+ Quick Ratio (Acid Test)        Quick Ratio = (Current Assets -      Hal. 105, 1086   Likuiditas tanpa
+                                Inventories) / Current Liabilities                    memperhitungkan persediaan
+                                                                                      yang membutuhkan waktu
+                                                                                      untuk dicairkan.
+
+ Inventory Turnover Ratio       Inventory Turnover = Cost of         Hal. 106, 1086   Frekuensi perputaran
+                                Goods Sold / Inventories (atau                        persediaan barang dagang
+                                Sales / Inventories)                                  dalam siklus operasi normal.
+
+ Days Sales Outstanding (DSO)   DSO = Receivables / Average          Hal. 107, 1086   Rata-rata hari yang diperlukan
+                                Sales Per Day = Receivables /                         perusahaan untuk mengonversi
+                                (Annual Sales / 365)                                  penjualan kredit menjadi kas.
+
+ Fixed Assets Turnover Ratio    Fixed Assets Turnover = Sales /      Hal. 108, 1086   Produktivitas pemanfaatan
+                                Net Fixed Assets                                      aktiva tetap berwujud dalam
+                                                                                      mencetak penjualan.
+
+ Total Assets Turnover Ratio    Total Assets Turnover = Sales /      Hal. 108, 1086   Efisiensi penggunaan seluruh
+                                Total Assets                                          sumber daya aktiva dalam
+                                                                                      menghasilkan pendapatan.
+
+ Debt-to-Assets Ratio (Debt     Debt-to-Assets Ratio = Total         Hal. 110, 1086   Proporsi pendanaan aktiva
+ Ratio)                         Debt / Total Assets = (Short-                         perusahaan yang bersumber
+                                Term Debt + Long-Term Debt) /                         dari utang berbunga.
+                                Total Assets
+
+ Liabilities-to-Assets Ratio    Liabilities-to-Assets Ratio =        Hal. 111, 1086   Persentase aset yang dijamin
+                                Total Liabilities / Total Assets                      dengan seluruh kewajiban
+                                                                                      lancar dan jangka panjang.
+
+ Market Debt Ratio              Market Debt Ratio = Total            Hal. 111, 1086   Struktur modal berbasis nilai
+                                Debt / (Total Debt + Market                           pasar utang dan nilai kapitalisasi
+                                Value of Equity)                                      pasar ekuitas.
+<PARSED TEXT FOR PAGE: 4 / 19>
+Debt-to-Equity Ratio (D/E)        Debt-to-Equity Ratio = Total        Hal. 111, 1086   Rasio perbandingan leverage
+                                  Debt / Total Common Equity                           keuangan antara modal utang
+                                                                                       berbunga terhadap modal
+                                                                                       saham.
+
+Equity Multiplier                 Equity Multiplier = Total           Hal. 112, 1086   Pengali pengungkit aset atas
+                                  Assets / Total Common Equity                         ekuitas pemegang saham
+                                                                                       (komponen pendorong leverage
+                                                                                       DuPont).
+
+Times-Interest-Earned (TIE)       TIE = EBIT / Interest Charges       Hal. 112, 1086   Kemampuan laba operasi dalam
+Ratio                                                                                  membayar beban bunga
+                                                                                       periodik.
+
+EBITDA Coverage Ratio             EBITDA Coverage = (EBITDA +         Hal. 113, 1086   Kapasitas arus kas operasi bruto
+                                  Lease Payments) / (Interest +                        dalam melunasi seluruh
+                                  Principal Payments + Lease                           kewajiban pembiayaan tetap.
+                                  Payments)
+
+Net Profit Margin                 Net Profit Margin = Net Income      Hal. 114, 1086   Margin laba bersih akhir yang
+                                  Available to Common                                  tersisa untuk pemilik saham dari
+                                  Stockholders / Sales                                 setiap unit penjualan.
+
+Operating Profit Margin           Operating Profit Margin = EBIT /    Hal. 114, 1086   Margin laba usaha operasional
+                                  Sales                                                murni sebelum biaya pendanaan
+                                                                                       modal.
+
+Gross Profit Margin               Gross Profit Margin = (Sales -      Hal. 115, 1086   Margin keuntungan bruto atas
+                                  Cost of Goods Sold) / Sales                          harga pokok penjualan.
+
+Return on Total Assets (ROA)      ROA = Net Income Available to       Hal. 115, 1086   Efektivitas pengembalian laba
+                                  Common Stockholders / Total                          bersih atas total investasi aset.
+                                  Assets
+
+Basic Earning Power (BEP) Ratio   BEP = EBIT / Total Assets           Hal. 115, 1087   Kemampuan aset murni
+                                                                                       menghasilkan laba operasi
+                                                                                       terlepas dari beban bunga dan
+                                                                                       pajak.
+
+DuPont ROA Formulation            ROA = Profit Margin × Total         Hal. 123, 1087   Korelasi pembentuk ROA
+                                  Assets Turnover = (Net                               melalui profitabilitas penjualan
+                                  Income / Sales) × (Sales / Total                     dan perputaran aktiva.
+                                  Assets)
+
+Return on Common Equity           ROE = Net Income Available to       Hal. 116, 1087   Tingkat imbal hasil laba bersih
+(ROE)                             Common Stockholders /                                atas modal ekuitas biasa.
+                                  Common Equity
+
+Extended DuPont Equation          ROE = ROA × Equity Multiplier =     Hal. 123, 1087   Dekomposisi komprehensif
+                                  Profit Margin × Total Assets                         pendorong ROE: margin laba,
+                                  Turnover × Equity Multiplier                         perputaran aset, dan leverage.
+                                  = (Net Income / Sales) × (Sales /
+                                  Total Assets) × (Total Assets /
+                                  Common Equity)
+
+Price/Earnings (P/E) Ratio        P/E Ratio = Price Per Share /       Hal. 117, 1087   Valuasi pasar atas setiap dolar
+<PARSED TEXT FOR PAGE: 5 / 19>
+                                  Earnings Per Share (EPS)                                     laba bersih per lembar saham.
+
+ Price/Cash Flow Ratio            Price/Cash Flow = Price Per             Hal. 118, 1087       Valuasi pasar saham
+                                  Share / Cash Flow Per Share                                  dibandingkan arus kas per
+                                                                                               lembar saham.
+
+ Book Value Per Share (BVPS)      BVPS = Common Equity /                  Hal. 63, 119, 1087   Nilai buku ekuitas tercatat
+                                  Shares Outstanding                                           akuntansi untuk setiap lembar
+                                                                                               saham.
+
+ Market-to-Book (M/B) Ratio       M/B Ratio = Market Price Per            Hal. 119, 1087       Perbandingan nilai pasar ekuitas
+                                  Share / Book Value Per Share =                               terhadap nilai buku historisnya.
+                                  Market Cap / Common Equity
+
+
+
+Bab 4: Time Value of Money
+Cakupan Buku: Halaman 139–192 (Selected Eq: Hal. 1087–1088)
+
+ Nama Rumus / Konsep              Rumus Matematis                         Halaman Buku         Keterangan & Aplikasi
+
+ Future Value of a Lump Sum       FV_N = PV × (1 + I)^N                   Hal. 142, 1087       Nilai akumulasi masa depan dari
+ (FV)                                                                                          nilai tunai saat ini dengan bunga
+                                                                                               majemuk I selama N periode.
+
+ Present Value of a Lump Sum      PV = FV_N / (1 + I)^N = FV_N ×          Hal. 149, 1087       Nilai diskonto saat ini dari arus
+ (PV)                             (1 + I)^(-N)                                                 kas masa depan FV_N.
+
+ Present Value of a Perpetuity    PV = PMT / I                            Hal. 154, 1087       Nilai tunai dari anuitas abadi
+                                                                                               yang tidak pernah jatuh tempo.
+
+ Future Value of an Ordinary      FVA_N = PMT × [((1 + I)^N - 1) /        Hal. 156, 1087       Nilai masa depan akumulasi
+ Annuity (FVA)                    I]                                                           anuitas dengan pembayaran di
+                                                                                               setiap akhir periode.
+
+ Future Value of an Annuity Due   FVA_due = FVA_ordinary × (1 +           Hal. 159, 1087       Nilai masa depan anuitas jika
+                                  I) = PMT × [((1 + I)^N - 1) / I] × (1                        pembayaran disetor di awal
+                                  + I)                                                         periode.
+
+ Present Value of an Ordinary     PVA_N = PMT × [(1 - (1 + I)^(-N))       Hal. 160, 1087       Nilai tunai dari seluruh
+ Annuity (PVA)                    / I] = PMT × [1/I - 1/(I(1+I)^N)]                            pembayaran periodik yang
+                                                                                               diterima di akhir setiap periode.
+
+ Present Value of an Annuity      PVA_due = PVA_ordinary × (1 +           Hal. 161, 1087       Nilai tunai anuitas jika cicilan
+ Due                              I) = PMT × [(1 - (1 + I)^(-N)) / I] ×                        diterima/dibayar di awal
+                                  (1 + I)                                                      periode.
+
+ Present Value of Uneven Cash     PV_uneven = ∑_{t=1}^N [CF_t /           Hal. 166, 1087       Nilai sekarang dari aliran arus
+ Flows                            (1 + I)^t]                                                   kas yang jumlahnya bervariasi
+                                                                                               setiap periode.
+
+ Future Value of Uneven Cash      FV_uneven = ∑_{t=1}^N [CF_t ×           Hal. 168, 1087       Nilai masa depan pada tahun ke-
+ Flows                            (1 + I)^(N - t)]                                             N dari serangkaian arus kas tidak
+                                                                                               beraturan.
+
+ Periodic Interest Rate (I_PER)   I_PER = I_NOM / M                       Hal. 170, 1088       Suku bunga per periode
+                                                                                               pemajemukan majemuk (M =
+                                                                                               frekuensi compounding per
+<PARSED TEXT FOR PAGE: 6 / 19>
+                                                                                           tahun).
+
+ Annual Percentage Rate (APR)       APR = I_PER × M = I_NOM               Hal. 171, 1088   Suku bunga nominal tahunan
+                                                                                           tanpa memperhitungkan efek
+                                                                                           pemajemukan antar-periode.
+
+ Effective Annual Rate (EAR /       EAR = (1 + I_PER)^M - 1 = (1 +        Hal. 171, 1088   Tingkat bunga tahunan riil yang
+ EFF%)                              I_NOM / M)^M - 1                                       memperhitungkan efek
+                                                                                           pemajemukan M kali setahun.
+
+ Future Value with Fractional /     FV_N = PV × (1 + I_NOM /              Hal. 171, 1088   Perhitungan nilai masa depan
+ Non-Annual Compounding             M)^(M × N)                                             dengan frekuensi pemajemukan
+                                                                                           beberapa kali setahun.
+
+ Growing Annuity (PV & FV)          PV = [PMT_1 / (I - g)] × [1 - ((1 +   Hal. 178–180     Nilai anuitas yang nominal
+                                    g)/(1 + I))^N]                                         pembayarannya bertumbuh
+                                    atau FV = [PMT_1 / (I - g)] × [(1                      dengan laju konstan g setiap
+                                    + I)^N - (1 + g)^N]                                    periode.
+
+
+
+Bab 5: Bonds, Bond Valuation, and Interest Rates
+Cakupan Buku: Halaman 193–238 (Selected Eq: Hal. 1088)
+
+ Nama Rumus / Konsep                Rumus Matematis                       Halaman Buku     Keterangan & Aplikasi
+
+ Annual Coupon Bond Valuation       V_B = ∑_{t=1}^N [INT / (1 +           Hal. 201, 1088   Harga teoritis wajar obligasi
+                                    r_d)^t] + [M / (1 + r_d)^N] = INT                      kupon tahunan berjangka N
+                                    × [(1 - (1 + r_d)^(-N)) / r_d] +                       tahun dengan nilai nominal M.
+                                    M / (1 + r_d)^N
+
+ Semiannual Coupon Bond             V_B = ∑_{t=1}^{2N} [(INT/2) / (1      Hal. 208, 1088   Penetapan harga obligasi
+ Valuation                          + r_d/2)^t] + [M / (1 +                                dengan kupon setengah
+                                    r_d/2)^(2N)]                                           tahunan (2 kupon per tahun).
+
+ Yield to Maturity (YTM)            Selesaikan r_d pada: Bond Price       Hal. 209, 1088   Tingkat imbal hasil efektif jika
+                                    = ∑_{t=1}^N [INT / (1 + YTM)^t]                        investor memegang obligasi
+                                    + [M / (1 + YTM)^N]                                    hingga tanggal jatuh tempo.
+
+ Price of Callable Bond (Yield to   Bond Price = ∑_{t=1}^N [INT / (1      Hal. 211, 1088   Valuasi obligasi dengan hak
+ Call - YTC)                        + r_d)^t] + [Call Price / (1 +                         penebusan dini sebelum jatuh
+                                    r_d)^N]                                                tempo pada harga call tertentu.
+
+ Current Yield                      Current Yield = Annual                Hal. 206, 1088   Tingkat pengembalian tahunan
+                                    Interest / Bond's Current Price =                      hanya dari pembayaran bunga
+                                    INT / P_0                                              tunai obligasi.
+
+ Total Expected Bond Return         Yield to Maturity = Current           Hal. 206, 1088   Pemisahan total return obligasi
+ Decomposition                      Yield + Capital Gains Yield                            atas porsi pendapatan kupon
+                                                                                           dan perubahan harga pasar
+                                                                                           obligasi.
+
+ Nominal Quoted Interest Rate       r_d = r* + IP + MRP + DRP + LP        Hal. 213, 1088   Pembentukan suku bunga pasar:
+ Determination                                                                             suku bunga riil bebas risiko (r*),
+                                                                                           inflasi (IP), premi jatuh tempo
+                                                                                           (MRP), gagal bayar (DRP), dan
+                                                                                           likuiditas (LP).
+<PARSED TEXT FOR PAGE: 7 / 19>
+ Inflation Premium Formulation       IP_N = (I_1 + I_2 + ... + I_N) / N           Hal. 214, 1088   Rata-rata ekspektasi laju inflasi
+ (IP_N)                                                                                            selama periode N tahun masa
+                                                                                                   berlaku obligasi.
+
+
+
+Bab 6: Risk and Return
+Cakupan Buku: Halaman 241–292 (Selected Eq: Hal. 1088–1089)
+
+ Nama Rumus / Konsep                 Rumus Matematis                              Halaman Buku     Keterangan & Aplikasi
+
+ Expected Rate of Return             r̂ = ∑_{i=1}^n [P_i × r_i]                   Hal. 243, 1088   Nilai ekspektasi tertimbang
+ (Discrete Distribution)                                                                           imbal hasil berdasarkan
+                                                                                                   probabilitas kejadian skenario
+                                                                                                   P_i.
+
+ Historical Sample Average           r̄ _Avg = (∑_{t=1}^T r̄ _t) / T              Hal. 249, 1088   Rata-rata aritmatika
+ Return                                                                                            pengembalian historis selama T
+                                                                                                   periode observasi.
+
+ Variance of Returns (Discrete)      σ^2 = ∑_{i=1}^n [(r_i - r̂)^2 ×              Hal. 245, 1088   Ukuran dispersi atau variasi
+                                     P_i]                                                          kemungkinan hasil terhadap
+                                                                                                   rata-rata tertimbangnya.
+
+ Standard Deviation of Returns       σ = √[∑_{i=1}^n (r_i - r̂)^2 × P_i]          Hal. 245, 1088   Ukuran risiko total
+ (σ)                                                                                               penyimpangan hasil investasi
+                                                                                                   pada distribusi probabilitas
+                                                                                                   diskret.
+
+ Historical Sample Standard          S = √[∑_{t=1}^T (r̄ _t -                     Hal. 250, 1089   Standar deviasi sampel
+ Deviation (S)                       r̄ _Avg)^2 / (T - 1)]                                         pengembalian historis dengan
+                                                                                                   pembagi derajat kebebasan
+                                                                                                   (T-1).
+
+ Coefficient of Variation (CV)       CV = σ / r̂                                  Hal. 246         Ukuran risiko relatif per unit
+                                                                                                   imbal hasil ekspektasi.
+
+ Portfolio Expected Return           r̂_p = ∑_{i=1}^n [w_i × r̂_i]                Hal. 253, 1089   Rata-rata tertimbang ekspektasi
+                                                                                                   return masing-masing aset
+                                                                                                   dalam komposisi bobot w_i.
+
+ Portfolio Standard Deviation        σ_p = √[∑_{i=1}^n (r_{pi} -                  Hal. 254, 1089   Standar deviasi imbal hasil
+ (Discrete Scenarios)                r̂_p)^2 × P_i]                                                portofolio pada berbagai kondisi
+                                                                                                   skenario ekonomi.
+
+ Historical Sample Correlation       R = ∑ [(r̄ _{it} - r̄ _{i,Avg})(r̄ _{jt} -   Hal. 255, 1089   Koefisien korelasi kovarians
+ Coefficient (ρ / R)                 r̄ _{j,Avg})] / √[∑(r̄ _{it} -                                terstandardisasi antara aset i
+                                     r̄ _{i,Avg})^2 × ∑(r̄ _{jt} -                                 dan j (-1 hingga +1).
+                                     r̄ _{j,Avg})^2]
+
+ Covariance with Market              COV_{iM} = ρ_{iM} × σ_i × σ_M                Hal. 258, 1089   Kovariansi antara pergerakan
+ Portfolio (COV_{iM})                                                                              return saham i dengan return
+                                                                                                   indeks pasar saham.
+
+ Beta Coefficient of Stock i (b_i)   b_i = (σ_i / σ_M) × ρ_{iM} =                 Hal. 259, 1089   Koefisien risiko sistematis yang
+                                     COV_{iM} / σ_M^2                                              mengukur sensitivitas imbal
+                                                                                                   hasil saham terhadap fluktuasi
+<PARSED TEXT FOR PAGE: 8 / 19>
+                                                                                          pasar.
+
+ Portfolio Beta (b_p)              b_p = ∑_{i=1}^n [w_i × b_i]           Hal. 261, 1089   Beta portofolio yang merupakan
+                                                                                          rata-rata tertimbang beta aset
+                                                                                          individual pembentuknya.
+
+ Market Risk Premium (RP_M)        RP_M = r_M - r_RF                     Hal. 263, 1089   Kompensasi kelebihan imbal
+                                                                                          hasil yang disyaratkan investor
+                                                                                          untuk memegang portofolio
+                                                                                          pasar.
+
+ Risk Premium for Individual       RP_i = (r_M - r_RF) × b_i =           Hal. 263, 1089   Premi risiko saham i
+ Stock (RP_i)                      RP_M × b_i                                             berdasarkan besaran risiko
+                                                                                          pasarnya.
+
+ Security Market Line (SML /       r_i = r_RF + (r_M - r_RF) × b_i =     Hal. 264, 1089   Persamaan linear Capital Asset
+ CAPM)                             r_RF + (RP_M) × b_i                                    Pricing Model untuk
+                                                                                          menentukan tingkat imbal hasil
+                                                                                          yang disyaratkan.
+
+ Fama-French Three-Factor          (r̄ _{it} - r̄ _{RFt}) = a_i +        Hal. 278, 1089   Model multifaktor imbal hasil
+ Model                             b_i(r̄ _{Mt} - r̄ _{RFt}) +                            saham dengan tambahan faktor
+                                   c_i(r̄ _{SMBt}) + d_i(r̄ _{HMLt}) +                    ukuran perusahaan (SMB) dan
+                                   e_{it}                                                 nilai buku (HML).
+
+
+
+Bab 7: Corporate Valuation and Stock Valuation
+Cakupan Buku: Halaman 293–342 (Selected Eq: Hal. 1089–1090)
+
+ Nama Rumus / Konsep               Rumus Matematis                       Halaman Buku     Keterangan & Aplikasi
+
+ Value of Operations (V_op)        V_op = ∑_{t=1}^∞ [FCF_t / (1 +        Hal. 297, 1089   Nilai sekarang dari seluruh arus
+                                   WACC)^t]                                               kas bebas yang dihasilkan oleh
+                                                                                          kegiatan operasional
+                                                                                          perusahaan.
+
+ Horizon Value of Operations       V_op(at time T) = FCF_{T+1} /         Hal. 301, 1089   Nilai terminal operasional pada
+ (HV_T)                            (WACC - g_L) = [FCF_T × (1 +                           akhir periode perkiraan eksplisit
+                                   g_L)] / (WACC - g_L)                                   dengan laju pertumbuhan
+                                                                                          jangka panjang g_L.
+
+ Total Intrinsic Entity Value      Total Intrinsic Entity Value =        Hal. 309, 1089   Nilai total seluruh perusahaan
+                                   V_op + Value of Nonoperating                           termasuk kas berlebih dan efek
+                                   Assets                                                 investasi jangka pendek.
+
+ Intrinsic Value of Common         Intrinsic Value of Equity = Total     Hal. 310, 1089   Nilai intrinsik yang tersisa untuk
+ Equity                            Intrinsic Entity Value - Value of                      pemegang saham biasa setelah
+                                   Preferred Stock - Value of Debt                        melunasi klaim utang dan saham
+                                                                                          preferen.
+
+ Intrinsic Stock Price Per Share   P̂_0 = Intrinsic Value of             Hal. 310         Estimasi nilai intrinsik wajar per
+ (P̂_0)                            Common Equity / Shares                                 lembar saham menggunakan
+                                   Outstanding                                            model FCF korporat.
+
+ Dividend Discount Model           P̂_0 = ∑_{t=1}^∞ [D_t / (1 +          Hal. 320, 1089   Nilai sekarang dari seluruh aliran
+ (General)                         r_s)^t]                                                dividen masa depan yang
+                                                                                          diharapkan diterima pemegang
+<PARSED TEXT FOR PAGE: 9 / 19>
+                                                                                         saham.
+
+ Constant Growth Dividend          P̂_0 = [D_0 × (1 + g_L)] / (r_s -    Hal. 321, 1089   Harga wajar saham biasa
+ Model (Gordon Model)              g_L) = D_1 / (r_s - g_L)                              dengan asumsi dividen
+                                                                                         bertumbuh secara konstan
+                                                                                         selamanya.
+
+ Expected Rate of Return on        r̂_s = (D_1 / P_0) + g_L             Hal. 322, 1090   Tingkat imbal hasil ekspektasi
+ Constant Growth Stock                                                                   saham biasa yang merupakan
+                                                                                         penjumlahan dividen yield dan
+                                                                                         capital gain yield.
+
+ Expected Dividend Yield &         Expected Dividend Yield = D_1 /      Hal. 322, 1090   Komposisi dua pilar
+ Capital Gains Yield               P_0 ; Expected Capital Gains                          pengembalian saham biasa pada
+                                   Yield = (P̂_1 - P_0) / P_0 = g_L                      kondisi pertumbuhan konstan.
+
+ Actual Historical Stock Return    r̄ _s = Actual Dividend Yield +      Hal. 323, 1090   Realisasi pengembalian saham
+ Decomposition                     Actual Capital Gains Yield                            historis dari dividen tunai dan
+                                                                                         selisih kurs harga saham.
+
+ Zero-Growth Stock Valuation       P̂_0 = D / r_s                       Hal. 323, 1090   Nilai saham biasa jika emiten
+                                                                                         tidak melakukan pertumbuhan
+                                                                                         laba/dividen (perpetuitas
+                                                                                         dividen tetap).
+
+ Horizon / Terminal Value of       P̂_T = D_{T+1} / (r_s - g_L) =       Hal. 324, 1090   Nilai saham masa depan pada
+ Stock (P̂_T)                      [D_T × (1 + g_L)] / (r_s - g_L)                       akhir fase pertumbuhan
+                                                                                         supernormal sebelum konstan.
+
+ Preferred Stock Valuation         V_ps = D_ps / r_ps                   Hal. 330, 1090   Harga wajar saham preferen
+ (V_ps)                                                                                  dengan dividen abadi tetap
+                                                                                         tanpa tanggal jatuh tempo.
+
+ Expected Return on Preferred      r̂_ps = D_ps / V_ps                  Hal. 331, 1090   Tingkat imbal hasil yang
+ Stock (r̂_ps)                                                                           diharapkan dari pembelian
+                                                                                         instrumen saham preferen.
+
+
+
+Bab 8: Financial Options and Applications in Corporate Finance
+Cakupan Buku: Halaman 343–372 (Selected Eq: Hal. 1090)
+
+ Nama Rumus / Konsep               Rumus Matematis                      Halaman Buku     Keterangan & Aplikasi
+
+ Exercise Value of a Call Option   Exercise Value = MAX(Current         Hal. 346, 1090   Nilai intrinsik opsi beli saat
+                                   Stock Price - Strike Price, 0)                        dilaksanakan: laba jika harga
+                                                                                         saham di atas exercise price X.
+
+ Hedge Ratio (Number of Shares     N = (C_u - C_d) / (P_u - P_d)        Hal. 349, 1090   Rasio jumlah saham yang harus
+ in Portfolio)                                                                           dibeli untuk membuat portofolio
+                                                                                         bebas risiko dalam model
+                                                                                         binomial.
+
+ Black-Scholes Option Pricing      V_C = P × [N(d_1)] - X × e^(-        Hal. 357, 1090   Harga teoritis opsi call Eropa
+ Model (Call Option - V_C)         r_{RF} × t) × [N(d_2)]                                analitis menggunakan volatilitas
+                                                                                         saham dan bunga bebas risiko.
+
+ Black-Scholes d_1 Parameter       d_1 = [ln(P / X) + (r_{RF} + σ^2 /   Hal. 358, 1090   Variabel probabilitas
+<PARSED TEXT FOR PAGE: 10 / 19>
+                                  2) × t] / (σ × √t)                                      terdistribusi normal standar
+                                                                                          pertama dalam formula Black-
+                                                                                          Scholes.
+
+ Black-Scholes d_2 Parameter      d_2 = d_1 - σ × √t                     Hal. 358, 1090   Variabel probabilitas kedua
+                                                                                          dalam formula Black-Scholes
+                                                                                          yang dikaitkan dengan diskonto
+                                                                                          strike.
+
+ Put-Call Parity                  Put Option = V_C - P + X × e^(-        Hal. 364, 1090   Hubungan ekuilibrium arbitrase
+                                  r_{RF} × t)                                             antara harga opsi beli (call) dan
+                                                                                          opsi jual (put).
+
+ Value of Put Option via Black-   V_put = P × [N(d_1) - 1] + X ×         Hal. 364, 1090   Penetapan harga opsi put
+ Scholes                          e^(-r_{RF} × t) × [1 - N(d_2)]                          langsung menggunakan
+                                                                                          kumulatif fungsi distribusi
+                                                                                          normal standar.
+
+
+
+Bab 9: The Cost of Capital
+Cakupan Buku: Halaman 375–412 (Selected Eq: Hal. 1090–1091)
+
+ Nama Rumus / Konsep              Rumus Matematis                        Halaman Buku     Keterangan & Aplikasi
+
+ After-Tax Component Cost of      Component Cost of Debt = r_d ×         Hal. 380, 1090   Biaya efektif utang setelah
+ Debt                             (1 - T)                                                 memperhitungkan
+                                                                                          penghematan pajak dari beban
+                                                                                          bunga.
+
+ Cost of Debt with Flotation      M × (1 - F) = ∑_{t=1}^N [INT(1 -       Hal. 381, 1090   Biaya komponen utang dengan
+ Costs                            T) / (1 + r_d(1 - T))^t] + [M / (1 +                    memperhitungkan biaya emisi
+                                  r_d(1 - T))^N]                                          sekuritas F.
+
+ Cost of Preferred Stock (r_ps)   r_ps = D_ps / [P_ps × (1 - F)]         Hal. 384, 1090   Biaya modal saham preferen
+                                                                                          baru dengan penyesuaian biaya
+                                                                                          emisi penjaminan F.
+
+ Market Equilibrium Expected      r̂_M = (D_1 / P_0) + g_L =             Hal. 385, 1091   Kondisi keseimbangan pasar
+ Return (r_M)                     r_{RF} + RP_M                                           saham agregat antara return
+                                                                                          ekspektasi dan return yang
+                                                                                          disyaratkan.
+
+ Market Required Return           r_M = r̂_M = [1 + (Rep / Div)] ×       Hal. 386, 1091   Estimasi return pasar modal
+ Adjusted for Stock Repurchases   (D_1 / P_0) + g_L                                       yang menyertakan distribusi kas
+                                                                                          berupa pembelian kembali
+                                                                                          saham.
+
+ Cost of Common Equity - CAPM     r_s = r_{RF} + b_i × (r_M -            Hal. 388, 1091   Penentuan biaya modal sendiri
+ Approach                         r_{RF}) = r_{RF} + b_i × RP_M                           ekuitas biasa menggunakan
+                                                                                          metode Capital Asset Pricing
+                                                                                          Model.
+
+ Cost of Common Equity -          r_s = r̂_s = (D_1 / P_0) +             Hal. 390, 1091   Estimasi biaya ekuitas internal
+ Dividend Growth Approach         Expected g                                              dari imbal hasil dividen
+ (DCF)                                                                                    ditambah laju pertumbuhan
+                                                                                          dividen.
+<PARSED TEXT FOR PAGE: 11 / 19>
+ Sustainable Growth Rate         g = Retention Rate × ROE = (1 -       Hal. 391, 1091       Pertumbuhan dividen jangka
+ Formula                         Payout Rate) × ROE                                         panjang yang didanai secara
+                                                                                            internal dari penahanan laba.
+
+ Cost of Equity - Own-Bond-      r_s = Company's Own Bond              Hal. 392, 1091       Metode estimasi heuristik biaya
+ Yield-Plus-Judgmental-Risk-     Yield + Judgmental Risk                                    ekuitas berdasarkan suku bunga
+ Premium                         Premium (umumnya 3% - 5%)                                  surat utang perusahaan.
+
+ Cost of Newly Issued Common     r_e = r̂_e = [D_1 / (P_0 × (1 -       Hal. 396, 1091       Biaya ekuitas eksternal baru
+ Stock (r_e)                     F))] + g_L                                                 yang lebih tinggi akibat adanya
+                                                                                            potongan biaya emisi F.
+
+ Weighted Average Cost of        WACC = w_d × r_d × (1 - T) +          Hal. 393, 1091       Biaya modal rata-rata
+ Capital (WACC)                  w_{std} × r_{std} × (1 - T) +                              tertimbang dari seluruh sumber
+                                 w_{ps} × r_{ps} + w_s × r_s                                dana: utang jangka panjang,
+                                                                                            jangka pendek, saham preferen,
+                                                                                            dan ekuitas.
+
+
+
+Bab 10: The Basics of Capital Budgeting: Evaluating Cash Flows
+Cakupan Buku: Halaman 413–452 (Selected Eq: Hal. 1091–1092)
+
+ Nama Rumus / Konsep             Rumus Matematis                       Halaman Buku         Keterangan & Aplikasi
+
+ Net Present Value (NPV)         NPV = ∑_{t=0}^N [CF_t / (1 +          Hal. 417, 1091       Kriteria utama seleksi proyek
+                                 r)^t] = CF_0 + CF_1/(1+r)^1 + ...                          investasi: selisih total nilai
+                                 + CF_N/(1+r)^N                                             sekarang arus kas masuk dengan
+                                                                                            pengeluaran awal.
+
+ Internal Rate of Return (IRR)   Selesaikan IRR pada: NPV =            Hal. 420, 1091       Tingkat diskonto yang
+                                 ∑_{t=0}^N [CF_t / (1 + IRR)^t] =                           menghasilkan NPV proyek tepat
+                                 0                                                          sama dengan nol.
+
+ Modified Internal Rate of       PV of Costs = [Terminal Value] /      Hal. 426–427, 1091   Pengukuran imbal hasil proyek
+ Return (MIRR)                   (1 + MIRR)^N                                               dengan asumsi arus kas masuk
+                                 di mana: PV of Costs = ∑                                   diinvestasikan kembali pada
+                                 [COF_t / (1 + r)^t] dan Terminal                           tingkat WACC.
+                                 Value = ∑ [CIF_t × (1 + r)^(N - t)]
+
+ Profitability Index (PI)        PI = (PV of Future Cash Flows) /      Hal. 429, 1091       Rasio efisiensi penciptaan nilai
+                                 Initial Cost = [∑_{t=1}^N CF_t /                           per unit modal belanja investasi
+                                 (1 + r)^t] / |CF_0|                                        yang dikeluarkan.
+
+ Payback Period                  Payback = Years prior to full         Hal. 430, 1092       Jangka waktu yang diperlukan
+                                 recovery + (Uncovered cost at                              untuk menutup kembali biaya
+                                 start of year / Cash flow during                           modal investasi awal.
+                                 recovery year)
+
+
+
+Bab 11: Cash Flow Estimation and Risk Analysis
+Cakupan Buku: Halaman 453–500 (Selected Eq: Hal. 1092)
+
+ Nama Rumus / Konsep             Rumus Matematis                       Halaman Buku         Keterangan & Aplikasi
+
+ Project Cash Flow               CF = Investment Outlay Cash           Hal. 455, 1092       Komponen arus kas total proyek
+ Decomposition                   Flow + Operating Cash Flow +                               dari belanja modal, hasil operasi
+<PARSED TEXT FOR PAGE: 12 / 19>
+                                  NOWC Cash Flow + Salvage                              bersih, pemulihan modal kerja,
+                                  Cash Flow                                             dan nilai sisa aset.
+
+ Project Operating Cash Flow      OCF = NOPAT + Depreciation =         Hal. 456         Arus kas operasional proyek
+ (OCF)                            EBIT(1 - T) + Depr = (Revenues -                      termasuk efek perlindungan
+                                  Costs)(1 - T) + T × Depr                              pajak dari biaya penyusutan
+                                                                                        (depreciation tax shield).
+
+ Expected Project NPV             E(NPV) = ∑_{i=1}^n [P_i ×            Hal. 471, 1092   Nilai ekspektasi tertimbang NPV
+                                  NPV_i]                                                proyek di bawah berbagai
+                                                                                        skenario probabilitas pasar.
+
+ Standard Deviation of Project    σ_{NPV} = √[∑_{i=1}^n P_i ×          Hal. 472, 1092   Ukuran risiko berdiri sendiri
+ NPV                              (NPV_i - E(NPV))^2]                                   (stand-alone risk) dari
+                                                                                        penyebaran NPV proyek.
+
+ Coefficient of Variation of      CV_{NPV} = σ_{NPV} / E(NPV)          Hal. 472, 1092   Rasio risiko per unit keuntungan
+ Project NPV                                                                            ekspektasi pada analisis
+                                                                                        penganggaran modal.
+
+
+
+Bab 12: Corporate Valuation and Financial Planning
+Cakupan Buku: Halaman 503–540 (Selected Eq: Hal. 1092)
+
+ Nama Rumus / Konsep              Rumus Matematis                      Halaman Buku     Keterangan & Aplikasi
+
+ Additional Funds Needed (AFN)    AFN = Required Asset Increase -      Hal. 523, 1092   Kebutuhan dana pembiayaan
+ Concept                          Spontaneous Liability Increase -                      eksternal untuk menopang
+                                  Increase in Retained Earnings                         pertumbuhan penjualan periode
+                                                                                        depan.
+
+ AFN Equation Formula             AFN = (A_0* / S_0) × ΔS -            Hal. 524, 1092   Perhitungan matematis AFN
+                                  (L_0* / S_0) × ΔS - M × S_1 × (1 -                    berdasarkan rasio modal aset
+                                  Payout Ratio)                                         spontan, liabilitas spontan, dan
+                                                                                        margin laba ditahan.
+
+ Full Capacity Sales              Full Capacity Sales = Actual         Hal. 527, 1092   Kapasitas penjualan maksimum
+                                  Sales / Percentage of Capacity                        teoritis jika aktiva tetap
+                                  at which Fixed Assets were                            dioperasikan pada utilitas 100%.
+                                  Operated
+
+ Target Fixed Assets to Sales     Target Fixed Assets / Sales =        Hal. 527, 1092   Rasio kebutuhan optimal aktiva
+ Ratio                            Actual Fixed Assets / Full                            tetap terhadap tingkat
+                                  Capacity Sales                                        penjualan kapasitas penuh.
+
+ Required Level of Fixed Assets   Required Level of Fixed Assets =     Hal. 528, 1092   Estimasi kebutuhan aktiva tetap
+                                  (Target Fixed Assets / Sales) ×                       baru saat proyeksi penjualan
+                                  Projected Sales                                       melampaui kapasitas penuh.
+
+
+
+Bab 14: Distributions to Shareholders: Dividends and Repurchases
+Cakupan Buku: Halaman 565–606 (Selected Eq: Hal. 1092)
+
+ Nama Rumus / Konsep              Rumus Matematis                      Halaman Buku     Keterangan & Aplikasi
+
+ Residual Distribution Model      Residual Distribution = Net          Hal. 578, 1092   Distribusi dividen atau buyback
+<PARSED TEXT FOR PAGE: 13 / 19>
+                                    Income - (Target Equity Ratio ×                        yang hanya dibayarkan dari sisa
+                                    Total Capital Budget)                                  laba setelah mendanai seluruh
+                                                                                           proyek modal bernilai positif.
+
+ Number of Shares Repurchased       n_{Repurchased} = n_{Prior} -         Hal. 583, 1092   Jumlah saham yang ditarik dari
+                                    n_{Post} = Cash_{Rep} /                                peredaran melalui program
+                                    P_{Prior}                                              pembelian kembali saham
+                                                                                           menggunakan dana kas
+                                                                                           tertentu.
+
+ Number of Shares Remaining         n_{Post} = n_{Prior} -                Hal. 584, 1092   Total lembar saham yang
+ Post-Repurchase                    (Cash_{Rep} / P_{Prior}) =                             beredar setelah transaksi
+                                    n_{Prior} × [1 - (Cash_{Rep} /                         buyback diselesaikan.
+                                    S_{Prior})]
+
+
+
+Bab 15: Capital Structure Decisions
+Cakupan Buku: Halaman 607–652 (Selected Eq: Hal. 1093–1094)
+
+ Nama Rumus / Konsep                Rumus Matematis                       Halaman Buku     Keterangan & Aplikasi
+
+ Operating Breakeven Quantity       Q_BE = F / (P - V)                    Hal. 611, 1093   Volume penjualan impas di
+ (Q_BE)                                                                                    mana laba operasi (EBIT) tepat
+                                                                                           bernilai nol (F = fixed costs, P =
+                                                                                           price, V = variable cost per unit).
+
+ Operating Profit (EBIT) Equation   EBIT = P×Q - V×Q - F = Q×(P - V)      Hal. 611, 1093   Persamaan hubungan antara
+                                    -F                                                     kuantitas output, margin
+                                                                                           kontribusi per unit, dan biaya
+                                                                                           tetap.
+
+ Modigliani-Miller Proposition I    V_L = V_U = EBIT / WACC = EBIT        Hal. 615, 1093   Nilai perusahaan tidak
+ (No Taxes)                         / r_{sU}                                               dipengaruhi oleh struktur
+                                                                                           permodalan jika tidak terdapat
+                                                                                           pajak.
+
+ Modigliani-Miller Proposition II   r_{sL} = r_{sU} + (r_{sU} - r_d) ×    Hal. 615, 1093   Biaya ekuitas perusahaan
+ (No Taxes)                         (D / S)                                                bertambah secara proporsional
+                                                                                           dengan peningkatan rasio utang
+                                                                                           terhadap ekuitas (D/S).
+
+ Modigliani-Miller Proposition I    V_L = V_U + T × D                     Hal. 616, 1093   Nilai perusahaan berutang
+ (Corporate Taxes)                                                                         bertambah sebesar nilai tunai
+                                                                                           penghematan pajak bunga
+                                                                                           (interest tax shield = T × D).
+
+ Modigliani-Miller Proposition II   r_{sL} = r_{sU} + (r_{sU} - r_d) ×    Hal. 617, 1093   Biaya modal sendiri berutang
+ (Corporate Taxes)                  (1 - T) × (D / S)                                      pada kondisi adanya insentif
+                                                                                           pajak penghasilan badan.
+
+ Miller Model (Corporate and        V_L = V_U + [1 - ((1 - T_c)(1 -       Hal. 619, 1093   Nilai perusahaan berutang
+ Personal Taxes)                    T_s) / (1 - T_d))] × D                                 dengan memasukkan pengaruh
+                                                                                           pajak penghasilan pribadi atas
+                                                                                           dividen (T_s) dan bunga (T_d).
+
+ Hamada Equation (Levered           b = b_U × [1 + (1 - T) × (D / S)] =   Hal. 629, 1093   Penyesuaian koefisien beta
+ Beta from Unlevered Beta)          b_U × [1 + (1 - T) × (w_d / w_s)]                      operasional murni (b_U)
+<PARSED TEXT FOR PAGE: 14 / 19>
+                                                                                          menjadi beta berutang (b)
+                                                                                          berdasarkan financial leverage.
+
+ Hamada Equation (Unlevered        b_U = b / [1 + (1 - T) × (D / S)] =   Hal. 630, 1093   Menghilangkan komponen risiko
+ Beta Calculation)                 b / [1 + (1 - T) × (w_d / w_s)]                        finansial untuk mendapatkan
+                                                                                          risiko bisnis murni dari suatu
+                                                                                          saham.
+
+ Zero Growth Value of              V_op = FCF / WACC = NOPAT /           Hal. 628, 1093   Penilaian operasional
+ Operations                        WACC = [EBIT(1 - T)] / WACC                            perusahaan jika tidak terdapat
+                                                                                          pertumbuhan laba dan investasi
+                                                                                          neto sama dengan nol.
+
+ Total Corporate Value and         Total Corporate Value = V_op +        Hal. 634, 1093   Penetapan nilai pasar ekuitas
+ Equity Value                      Short-Term Investments ; S =                           total pasca pengumuman
+                                   Total Corporate Value - Total                          perubahan struktur modal.
+                                   Debt
+
+ Stock Price and Shares Post-      P_{Post} = P_{Prior} =                Hal. 635, 1093   Harga saham tidak berubah saat
+ Debt Recapitalization             S_{Prior} / n_{Prior} ; n_{Post} =                     transaksi buyback dilaksanakan,
+                                   n_{Prior} - (D_{New} -                                 dan jumlah saham berkurang
+                                   D_{Old}) / P_{Prior}                                   proporsional terhadap utang
+                                                                                          baru.
+
+ Net Income and Earnings Per       NI = (EBIT - r_d × D) × (1 - T) ;     Hal. 631, 1094   Laba bersih dan laba per lembar
+ Share with Debt                   EPS = NI / n                                           saham setelah
+                                                                                          memperhitungkan beban bunga
+                                                                                          utang baru.
+
+
+
+Bab 16: Supply Chains and Working Capital Management
+Cakupan Buku: Halaman 655–704 (Selected Eq: Hal. 1094)
+
+ Nama Rumus / Konsep               Rumus Matematis                       Halaman Buku     Keterangan & Aplikasi
+
+ Inventory Conversion Period       Inventory Conversion Period =         Hal. 663, 1094   Rata-rata hari yang dibutuhkan
+                                   Inventory / (Cost of Goods                             perusahaan dari penerimaan
+                                   Sold / 365) = 365 / Inventory                          bahan mentah hingga barang
+                                   Turnover                                               terjual.
+
+ Average Collection Period (DSO)   Average Collection Period =           Hal. 664, 1094   Rata-rata durasi waktu yang
+                                   Receivables / (Daily Sales) =                          diperlukan untuk menagih
+                                   Receivables / (Sales / 365)                            piutang penjualan kredit.
+
+ Payables Deferral Period          Payables Deferral Period =            Hal. 664, 1094   Rata-rata jangka waktu
+                                   Accounts Payable / (Cost of                            pembayaran kewajiban utang
+                                   Goods Sold / 365)                                      dagang kepada pemasok.
+
+ Cash Conversion Cycle (CCC)       Cash Conversion Cycle =               Hal. 665, 1094   Siklus konversi kas: rentang
+                                   Inventory Conversion Period +                          waktu sejak kas dikeluarkan
+                                   Average Collection Period -                            untuk bahan baku hingga kas
+                                   Payables Deferral Period                               diterima dari penagihan piutang.
+<PARSED TEXT FOR PAGE: 15 / 19>
+ Receivables Balance              Accounts Receivable = Credit        Hal. 669, 1094   Estimasi nilai saldo piutang
+ Determination                    Sales Per Day × Length of                            dagang berdasarkan volume
+                                  Collection Period = Daily Sales ×                    penjualan harian dan DSO
+                                  DSO                                                  target.
+
+ Nominal Annual Cost of Trade     Nominal Cost = [Discount % /        Hal. 675, 1094   Biaya tahunan nominal dari
+ Credit                           (100 - Discount %)] × [365 /                         melewatkan diskon kas pada
+                                  (Days credit is outstanding -                        syarat pembayaran kredit
+                                  Discount period)]                                    (misal: 2/10 net 30).
+
+ Effective Annual Rate of Trade   EAR = [1 + (Discount % / (100 -     Hal. 675         Suku bunga tahunan efektif dari
+ Credit                           Discount %))]^(365 / Days) - 1                       kegagalan memanfaatkan
+                                                                                       potongan harga pembayaran
+                                                                                       tunai cepat.
+
+
+
+Bab 17: Multinational Financial Management
+Cakupan Buku: Halaman 705–748 (Selected Eq: Hal. 1094)
+
+ Nama Rumus / Konsep              Rumus Matematis                     Halaman Buku     Keterangan & Aplikasi
+
+ Single-Period Interest Rate      Forward Exchange Rate / Spot        Hal. 723, 1094   Kondisi ekuilibrium pasar valas
+ Parity (IRP)                     Exchange Rate = (1 + r_h) / (1 +                     di mana perbedaan suku bunga
+                                  r_f)                                                 domestik (r_h) dan asing (r_f)
+                                                                                       terefleksikan pada kurs forward.
+
+ Multi-Period Expected Forward    Expected Forward Rate_t = Spot      Hal. 724, 1094   Ekspektasi nilai tukar berjangka
+ Exchange Rate                    Rate × [(1 + r_h) / (1 + r_f)]^t                     t-tahun berdasarkan perbedaan
+                                                                                       inflasi dan suku bunga
+                                                                                       antarnegara.
+
+ Absolute Purchasing Power        P_h = P_f × Spot Rate => Spot       Hal. 724, 1094   Hukum satu harga: harga
+ Parity (PPP)                     Rate = P_h / P_f                                     sekeranjang komoditas di dalam
+                                                                                       negeri sama dengan harga di
+                                                                                       luar negeri setelah dikonversi
+                                                                                       dengan kurs spot.
+
+
+
+Bab 18: Public and Private Financing: Initial Offerings, Seasoned Offerings, and Investment
+Banks
+Cakupan Buku: Halaman 751–790 (Selected Eq: Hal. 1094–1095)
+
+ Nama Rumus / Konsep              Rumus Matematis                     Halaman Buku     Keterangan & Aplikasi
+
+ Amount Left on the Table (IPO    Amount Left on Table = (Closing     Hal. 760, 1094   Kerugian peluang nilai dana
+ Underpricing)                    Price on First Day - Offer Price)                    yang tidak berhasil dihimpun
+                                  × Number of Shares Sold                              oleh emiten akibat penetapan
+                                                                                       harga IPO yang terlalu rendah.
+
+ Percentage of Shares Owned by    % Owned by New Investors =          Hal. 761, 1094   Porsi kepemilikan saham yang
+ New Investors                    n_{New} / (n_{New} +                                 dikuasai investor publik baru
+                                  n_{Existing})                                        setelah penawaran umum
+                                                                                       perdana.
+
+ Number of New Shares             n_{New} = n_{Existing} × [%         Hal. 761, 1094   Jumlah lembar saham baru yang
+<PARSED TEXT FOR PAGE: 16 / 19>
+ Required to be Issued             Owned / (1 - % Owned)]                             wajib diterbitkan untuk
+                                                                                      memenuhi target persentase
+                                                                                      kepemilikan modal.
+
+ Total Value of Equity Post-IPO    V_{Post IPO} = V_{Pre IPO} +      Hal. 762, 1094   Nilai kapitalisasi modal sendiri
+                                   P_{Offer} × (1 - F) × n_{New}                      perusahaan pasca penerimaan
+                                                                                      dana bersih hasil penawaran
+                                                                                      perdana.
+
+ Offer Price Calculation Formula   P_{Offer} = V_{Pre IPO} / [F ×    Hal. 762, 1095   Formula penentuan harga
+                                   n_{New} + n_{Existing}]                            penawaran saham perdana per
+                                                                                      lembar dengan
+                                                                                      memperhitungkan biaya emisi
+                                                                                      underwriter.
+
+ Percentage of Equity Required     % Required = Investment / [(1 -   Hal. 763, 1095   Proporsi kepemilikan minimum
+ by New Investors                  F) × Investment + V_{Pre IPO}]                     yang disyaratkan investor baru
+                                                                                      atas injeksi modal tertentu.
+
+
+
+Bab 19: Lease Financing
+Cakupan Buku: Halaman 791–818 (Selected Eq: Hal. 1095)
+
+ Nama Rumus / Konsep               Rumus Matematis                   Halaman Buku     Keterangan & Aplikasi
+
+ Net Advantage to Leasing (NAL)    NAL = PV of Cost of Owning - PV   Hal. 802, 1095   Kriteria evaluasi sewa guna
+                                   of Cost of Leasing                                 usaha: jika NAL positif, maka
+                                                                                      alternatif leasing lebih
+                                                                                      menguntungkan daripada
+                                                                                      membeli aset dengan
+                                                                                      meminjam uang.
+
+
+
+Bab 20: Hybrid Financing: Preferred Stock, Warrants, and Convertibles
+Cakupan Buku: Halaman 819–846 (Selected Eq: Hal. 1095)
+
+ Nama Rumus / Konsep               Rumus Matematis                   Halaman Buku     Keterangan & Aplikasi
+
+ Value of Bond with Warrants       Price Paid for Bond with          Hal. 825, 1095   Pemisahan nilai instrumen
+ Decomposition                     Warrants = Straight-Debt Value                     gabungan antara komponen
+                                   of Bond + Value of Warrants                        nilai utang murni dan nilai hak
+                                                                                      waran ekuitas.
+
+ Conversion Price (P_c)            Conversion Price P_c = Par        Hal. 830, 1095   Harga efektif per lembar saham
+                                   Value of Bond Given Up /                           yang dibayarkan investor saat
+                                   Shares Received = Par Value /                      mengonversi obligasi menjadi
+                                   CR                                                 saham biasa.
+
+ Conversion Ratio (CR)             Conversion Ratio CR = Par Value   Hal. 830, 1095   Jumlah lembar saham biasa
+                                   of Bond Given Up / P_c                             yang berhak diperoleh untuk
+                                                                                      setiap satu lembar obligasi
+                                                                                      konversi.
+
+ Conversion Value of a             Conversion Value = CR × P_0       Hal. 831         Nilai pasar riil dari obligasi jika
+ Convertible Bond                                                                     langsung ditukarkan menjadi
+                                                                                      saham biasa pada harga pasar
+<PARSED TEXT FOR PAGE: 17 / 19>
+                                                                                         saat ini.
+
+
+
+Bab 21: Dynamic Capital Structures and Corporate Valuation
+Cakupan Buku: Halaman 849–872 (Selected Eq: Hal. 1095–1096)
+
+ Nama Rumus / Konsep               Rumus Matematis                      Halaman Buku     Keterangan & Aplikasi
+
+ General Adjusted Present Value    V_L = V_U + V_{Tax Shield}           Hal. 851, 1095   Nilai perusahaan berutang sama
+ (APV)                                                                                   dengan nilai entitas tanpa utang
+                                                                                         ditambah nilai tunai
+                                                                                         perlindungan pajak bunga.
+
+ Tax Shield Valuation (General     V_{Tax Shield} = (r_d × T × D) /     Hal. 854, 1095   Valuasi diskonto tax shield pada
+ Dynamic APV)                      (r_{TS} - g_L) => V_L = V_U +                         tingkat diskonto khusus risiko
+                                   [r_d / (r_{TS} - g_L)] × T × D                        penghematan pajak r_{TS}.
+
+ Compressed Adjusted Present       V_L = V_U + (r_d × T × D) /          Hal. 855, 1096   Model CAPV di mana risiko
+ Value (CAPV)                      (r_{sU} - g_L)                                        perlindungan pajak diasumsikan
+                                                                                         setara dengan risiko operasional
+                                                                                         tanpa utang (r_{TS} = r_{sU}).
+
+ Cost of Equity in CAPV Model      r_{sL} = r_{sU} + (r_{sU} - r_d) ×   Hal. 855, 1096   Biaya modal saham berutang
+                                   (D / S)                                               dalam kerangka Compressed
+                                                                                         APV.
+
+ Beta Adjustment in CAPV           b = b_U + (b_U - b_D) × (D / S)      Hal. 855, 1096   Hubungan beta ekuitas dengan
+ Model                                                                                   memperhitungkan potensi risiko
+                                                                                         pada beta utang (b_D).
+
+ Unlevered Cost of Equity          r_{sU} = w_s × r_{sL} + w_d ×        Hal. 856, 1096   Biaya modal rata-rata aset
+ (r_{sU})                          r_d                                                   perusahaan tanpa fasilitas
+                                                                                         pengurangan pajak bunga.
+
+ Annual Tax Savings from           Tax Savings = Interest Expense       Hal. 857, 1096   Penghematan arus kas keluar
+ Interest                          × Tax Rate = r_d × D × T                              pajak tahunan yang tercipta dari
+                                                                                         pemanfaatan utang berbunga.
+
+ Horizon Value of Unlevered        HV_{U,N} = FCF_{N+1} / (r_{sU}       Hal. 857, 1096   Nilai horizon perusahaan tanpa
+ Firm (HV_{U,N})                   - g_L) = [FCF_N × (1 + g_L)] /                        utang pada akhir masa estimasi
+                                   (r_{sU} - g_L)                                        bertingkat eksplisit.
+
+ Horizon Value of Tax Shield       HV_{TS,N} = TS_{N+1} / (r_{sU}       Hal. 858, 1096   Nilai horizon dari
+ (HV_{TS,N})                       - g_L) = [TS_N × (1 + g_L)] /                         kesinambungan penghematan
+                                   (r_{sU} - g_L)                                        pajak bunga di masa depan.
+
+ Total Value of Operations via     V_op = V_{Unlevered} + V_{Tax        Hal. 858, 1096   Perhitungan menyeluruh nilai
+ APV                               Shield} = [∑ FCF_t/(1+r_{sU})^t                       operasi pada perusahaan
+                                   + HV_{U}/(1+r_{sU})^N] + [∑                           dengan struktur utang dinamis.
+                                   TS_t/(1+r_{sU})^t +
+                                   HV_{TS}/(1+r_{sU})^N]
+
+ Free Cash Flow to Equity (FCFE)   FCFE = FCF - Interest Expense +      Hal. 863, 1096   Arus kas yang tersedia murni
+ - Cash Flow View                  Interest Tax Shield + Net                             hanya untuk dibagikan kepada
+                                   Change in Debt                                        pemegang saham biasa.
+
+ Free Cash Flow to Equity (FCFE)   FCFE = Net Income - Net              Hal. 864, 1096   Formulasi arus kas ekuitas
+<PARSED TEXT FOR PAGE: 18 / 19>
+ - Net Income View                Investment in Operating Capital                       langsung berbasis laba bersih
+                                  + Net Change in Debt                                  laporan laba rugi.
+
+ Horizon Value of Equity via      HV_{FCFE,N} = FCFE_{N+1} /           Hal. 864, 1096   Nilai terminal ekuitas pada
+ FCFE (HV_{FCFE,N})               (r_{sL} - g_L) = [FCFE_N × (1 +                       model diskonto FCFE.
+                                  g_L)] / (r_{sL} - g_L)
+
+ Total Equity Value via FCFE      S = ∑_{t=1}^N [FCFE_t / (1 +         Hal. 865, 1096   Penetapan langsung nilai ekuitas
+ Valuation                        r_{sL})^t] + [HV_{FCFE,N} / (1 +                      pemegang saham tanpa
+                                  r_{sL})^N] + Nonoperating                             mendiskontokan FCF entitas
+                                  Assets                                                total.
+
+
+
+
+Bab 22: Mergers and Corporate Control
+Cakupan Buku: Halaman 873–910 (Selected Eq: Hal. 1096)
+
+ Nama Rumus / Konsep              Rumus Matematis                      Halaman Buku     Keterangan & Aplikasi
+
+ Percentage of Equity Required    % Required = Total Value of          Hal. 887, 1096   Proporsi kepemilikan saham
+ by Target Stockholders           Shares to Target / Total Post-                        entitas gabungan yang harus
+                                  Merger Value of Equity =                              diserahkan kepada pemilik
+                                  n_{New} / (n_{New} + n_{Old})                         perusahaan target dalam
+                                                                                        akuisisi saham.
+
+
+
+Bab 25: Portfolio Theory and Asset Pricing Models
+Cakupan Buku: Halaman 981–1014 (Selected Eq: Hal. 1096–1097)
+
+ Nama Rumus / Konsep              Rumus Matematis                      Halaman Buku     Keterangan & Aplikasi
+
+ Two-Asset Portfolio Expected     r̂_p = w_A × r̂_A + (1 - w_A) ×      Hal. 983, 1096   Ekspektasi pengembalian
+ Return                           r̂_B                                                  portofolio kombinasi dua
+                                                                                        instrumen aset berisiko A dan B.
+
+ Two-Asset Portfolio Standard     σ_p = √[w_A^2 × σ_A^2 + (1 -         Hal. 984, 1096   Volatilitas total risiko portofolio
+ Deviation                        w_A)^2 × σ_B^2 + 2 × w_A × (1 -                       dua aset dengan
+                                  w_A) × ρ_{AB} × σ_A × σ_B]                            mempertimbangkan korelasi
+                                                                                        kovarians antar aset.
+
+ Minimum-Variance Portfolio       w_A = [σ_B^2 - ρ_{AB} × σ_A ×        Hal. 986, 1097   Bobot optimal aset A untuk
+ Weight for Asset A               σ_B] / [σ_A^2 + σ_B^2 - 2 ×                           membentuk portofolio dengan
+                                  ρ_{AB} × σ_A × σ_B]                                   varians risiko terendah
+                                                                                        (minimum-risk portfolio).
+
+ N-Asset Portfolio Expected       r̂_p = ∑_{i=1}^N [w_i × r̂_i]        Hal. 987, 1097   Imbal hasil ekspektasi portofolio
+ Return                                                                                 umum beranggotakan N aset
+                                                                                        investasi.
+
+ N-Asset Portfolio Variance       σ_p^2 = ∑_{i=1}^N ∑_{j=1}^N          Hal. 988, 1097   Formula matriks varians-
+ (Double Summation)               [w_i × w_j × σ_i × σ_j × ρ_{ij}] =                    kovariansi risiko portofolio
+                                  ∑_{i=1}^N w_i^2 × σ_i^2 +                             multi-aset.
+                                  ∑_{i=1}^N ∑_{j≠i} w_i × w_j ×
+                                  Cov_{ij}
+
+ Portfolio with Risk-Free Asset   σ_p = (1 - w_{RF}) × σ_M             Hal. 991, 1097   Risiko portofolio gabungan
+ Risk                                                                                   antara aset bebas risiko (risk-
+<PARSED TEXT FOR PAGE: 19 / 19>
+                                                                                           free) dengan portofolio pasar M.
+
+ Capital Market Line (CML)        r̂_p = r_{RF} + [(r̂_M - r_{RF}) /     Hal. 992, 1097    Garis pasar modal yang
+                                  σ_M] × σ_p                                               menghubungkan imbal hasil
+                                                                                           ekspektasi dan risiko total σ
+                                                                                           untuk portofolio efisien.
+
+ Security Market Line (SML)       r_i = r_{RF} + [(r_M - r_{RF}) /       Hal. 994, 1097    Garis pasar sekuritas yang
+ Derivation                       σ_M^2] × Cov(r_i, r_M) = r_{RF}                          mendasarkan premi risiko aset
+                                  + (r_M - r_{RF}) × b_i                                   hanya pada risiko kovarians
+                                                                                           sistematisnya.
+
+ Beta of Asset i via Covariance   b_i = Cov(r_i, r_M) / σ_M^2 =          Hal. 995, 1097    Rasio kovariansi aset terhadap
+                                  (ρ_{iM} × σ_i × σ_M) / σ_M^2 =                           varians pasar yang merupakan
+                                  ρ_{iM} × (σ_i / σ_M)                                     slope regresi imbal hasil pasar.
+
+ Sharpe Reward-to-Variability     Sharpe Ratio = (r̄ _p - r̄ _{RF}) /    Hal. 1004, 1097   Kinerja portofolio berbasis
+ Ratio                            σ_p                                                      kelebihan return per unit deviasi
+                                                                                           standar risiko total.
+
+ Treynor Reward-to-Volatility     Treynor Ratio = (r̄ _p - r̄ _{RF}) /   Hal. 1004, 1097   Kinerja portofolio berbasis
+ Ratio                            b_p                                                      kelebihan return per unit risiko
+                                                                                           sistematis beta.
+
+ Total Risk Decomposition         σ_i^2 = b_i^2 × σ_M^2 + σ_{e,i}        Hal. 999, 1097    Pemisahan varians total saham
+ (Index Model)                    ^2 (Market Risk + Firm-Specific                          menjadi komponen risiko pasar
+                                  Unique Risk)                                             sistematis dan risiko
+                                                                                           idiosinkratik unik.
+
+ Arbitrage Pricing Theory (APT    r_i = r_{RF} + (r_1 - r_{RF}) ×        Hal. 1007, 1097   Model penetapan harga aset
+ Multi-Factor Equation)           b_{i1} + (r_2 - r_{RF}) × b_{i2}                         arbitrase berbasis multi-faktor
+                                  + ... + (r_j - r_{RF}) × b_{ij}                          makroekonomi.
+
+
+
+Bab 26: Real Options
+Cakupan Buku: Halaman 1015–1040 (Selected Eq: Hal. 1097)
+
+ Nama Rumus / Konsep              Rumus Matematis                        Halaman Buku      Keterangan & Aplikasi
+
+ Coefficient of Variation of      CV = σ_{PV} / E(PV of future CF)       Hal. 1022, 1097   Rasio volatilitas nilai sekarang
+ Project Present Value                                                                     arus kas masa depan proyek
+                                                                                           terhadap ekspektasi nilai
+                                                                                           tunainya.
+
+ Variance of Project Rate of      σ^2 = [ln(CV^2 + 1)] / t               Hal. 1022, 1097   Konversi variabilitas arus kas
+ Return (for Black-Scholes Real                                                            proyek menjadi input varians
+ Options)                                                                                  volatilitas kontinu tahunan σ^2
+                                                                                           untuk model Black-Scholes.
+
+ Black-Scholes Mapping to Real    P = PV of expected future cash         Hal. 1021–1024    Pemetaan variabel keuangan riil
+ Investment Timing Option         flows ; X = Investment capital                           proyek ke dalam parameter
+                                  required to execute ; t = Time                           model opsi beli Black-Scholes.
+                                  until decision expires ; r_{RF} =
+                                  Risk-free rate ; σ = Project
+                                  volatility

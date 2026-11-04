@@ -1,0 +1,190 @@
+{
+  "status": "PASS",
+  "mapped_entries": 197,
+  "new_supplemental_groups": 12,
+  "annotated_entries": 50,
+  "numeric_checks": 30,
+  "mapping_errors": [],
+  "checks": [
+    {
+      "name": "A01",
+      "actual": 2,
+      "expected": 2,
+      "status": "PASS"
+    },
+    {
+      "name": "A02",
+      "actual": 150,
+      "expected": 150,
+      "status": "PASS"
+    },
+    {
+      "name": "A03",
+      "actual": 100,
+      "expected": 100,
+      "status": "PASS"
+    },
+    {
+      "name": "A04",
+      "actual": 260.5184072126225,
+      "expected": 260.518407212622,
+      "status": "PASS"
+    },
+    {
+      "name": "A05",
+      "actual": 2.0,
+      "expected": 2,
+      "status": "PASS"
+    },
+    {
+      "name": "A06",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "A07",
+      "actual": 0.08499999999999999,
+      "expected": 0.085,
+      "status": "PASS"
+    },
+    {
+      "name": "A08",
+      "actual": 1.0606601717798214,
+      "expected": 1.06066017177982,
+      "status": "PASS"
+    },
+    {
+      "name": "A09",
+      "actual": 3.3,
+      "expected": 3.3,
+      "status": "PASS"
+    },
+    {
+      "name": "A10",
+      "actual": 2000000,
+      "expected": 2000000,
+      "status": "PASS"
+    },
+    {
+      "name": "A11",
+      "actual": 0.2857142857142857,
+      "expected": 0.285714285714286,
+      "status": "PASS"
+    },
+    {
+      "name": "A12",
+      "actual": 0.44675305448611385,
+      "expected": 0.446753054486114,
+      "status": "PASS"
+    },
+    {
+      "name": "Growing annuity PV against direct cash flows",
+      "actual": 260.5184072126225,
+      "expected": 260.51840721262204,
+      "status": "PASS"
+    },
+    {
+      "name": "Growing annuity FV against direct accumulation",
+      "actual": 346.7500000000006,
+      "expected": 346.75,
+      "status": "PASS"
+    },
+    {
+      "name": "Growing annuity r=g limit",
+      "actual": 272.7272727272727,
+      "expected": 272.7272727272727,
+      "status": "PASS"
+    },
+    {
+      "name": "Finite growing annuity permits g>r",
+      "actual": 299.5356872907897,
+      "expected": 299.5356872907893,
+      "status": "PASS"
+    },
+    {
+      "name": "FCF allocations reconciled to operations",
+      "actual": 100,
+      "expected": 100,
+      "status": "PASS"
+    },
+    {
+      "name": "NAL positive-cost versus signed-cash convention",
+      "actual": 2.8299999999999983,
+      "expected": 2.8299999999999983,
+      "status": "PASS"
+    },
+    {
+      "name": "EAR differs from inflation-adjusted real rate",
+      "actual": 0.12682503013196977,
+      "expected": 0.12682503013197,
+      "status": "PASS"
+    },
+    {
+      "name": "Real rate applies Fisher to effective rate",
+      "actual": 0.08348560589612464,
+      "expected": 0.083485605896125,
+      "status": "PASS"
+    },
+    {
+      "name": "Residual distribution cannot be negative",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "name": "Merger ownership value and share bases agree",
+      "actual": 0.2857142857142857,
+      "expected": 0.2857142857142857,
+      "status": "PASS"
+    },
+    {
+      "name": "IPO money left differs from spread costs",
+      "actual": 2000000,
+      "expected": 2000000,
+      "status": "PASS"
+    },
+    {
+      "name": "Repurchase total payout yield equivalence",
+      "actual": 0.08499999999999999,
+      "expected": 0.08499999999999999,
+      "status": "PASS"
+    },
+    {
+      "name": "Project CV inversion recovers original CV",
+      "actual": 0.4700000000000001,
+      "expected": 0.47,
+      "status": "PASS"
+    },
+    {
+      "name": "Risk-free mixed-portfolio SD handles short market",
+      "actual": 0.039999999999999994,
+      "expected": 0.04,
+      "status": "PASS"
+    },
+    {
+      "name": "After-tax proceeds with positive basis",
+      "actual": 42.5,
+      "expected": 42.5,
+      "status": "PASS"
+    },
+    {
+      "name": "NCF cash earnings do not subtract capex",
+      "actual": 80,
+      "expected": 80,
+      "status": "PASS"
+    },
+    {
+      "name": "FCF subtracts reinvestment from NOPAT",
+      "actual": 70,
+      "expected": 70,
+      "status": "PASS"
+    },
+    {
+      "name": "Annualized trade-credit nominal vs effective nonidentity",
+      "actual": 1.0,
+      "expected": 1,
+      "status": "PASS"
+    }
+  ]
+}

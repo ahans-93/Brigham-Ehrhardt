@@ -337,3 +337,7 @@ Nilai setelah pendanaan adalah $V_{post}=V_{pre}+(1-F)P_{offer}n_{new}$. Jika ha
 ## Yang belum diverifikasi
 
 Seluruh 13 halaman Selected Equations telah dilihat secara visual dan kelompok formula serta transformasinya dirangkum di atas. Nomor seluruh persamaan pada isi utama belum dipetakan satu per satu ke register, dan pembuktian setiap formula spesifik belum seluruhnya dilakukan. Seluruh nomor kandidat persamaan yang terdeteksi disediakan di INVENTARIS_SUMBER.md; status kandidat tidak sama dengan validasi rumus atau pembahasan lengkap seluruh buku.
+
+## Integrasi kompilasi v2
+
+Dua file kiriman terbaru dipelajari dan dipetakan dalam [197 entri terintegrasi](kompilasi-v2/KOMPILASI_TERINTEGRASI.md). [Pelengkap kajian](kompilasi-v2/LENGKAPAN.md) menambahkan 12 kelompok, termasuk growing annuity, rekonsiliasi penggunaan FCF, bid–ask spread, dan IPO money left. Baca catatan per entri sebelum menggunakan bentuk ringkas masukan.

@@ -1,0 +1,29 @@
+{
+  "date": "2026-11-04",
+  "entries": 197,
+  "new_supplemental_groups": 12,
+  "review_annotations": 50,
+  "source_files": [
+    {
+      "name": "Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2.md",
+      "library_file_id": "libfile_a13434c04b6881919882484f239081a4",
+      "source_size_bytes": 82969,
+      "archive": "sumber/Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2.md",
+      "archive_sha256": "9ece5052c465100157729efa81e833f65875deb1a3a317093757239d5ddbb771",
+      "access": "complete Library text; reconstructed UTF-8 text size matches source"
+    },
+    {
+      "name": "Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2.docx",
+      "library_file_id": "libfile_8d3bdb02ec3881918db848017353c866",
+      "source_size_bytes": 58473,
+      "source_pages": 19,
+      "read_lines": [
+        1,
+        1101
+      ],
+      "archive": "sumber/DOCX_teks_lengkap.txt",
+      "archive_sha256": "4b1bde58468ded186dcbe19d7157bc15f2f7c30138e90736f8becd2a2445cea7",
+      "access": "full extracted content; original DOCX binary download unavailable; extraction is not the original Word file"
+    }
+  ]
+}

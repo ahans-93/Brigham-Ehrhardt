@@ -236,5 +236,12 @@
   "latest_reupload_reference": {
     "library_file_id": "libfile_2fb3aff245b4819195d50a3a22bf3efa",
     "validation": "Reupload identity checked against edition, ISBN, page count, size, and selected content; bytewise comparison of newly reuploaded Library object not claimed. Archived original PDF unchanged."
+  },
+  "v2_integration": {
+    "date": "2026-11-04",
+    "index": "kompilasi-v2/README.md",
+    "mapped_entries": 197,
+    "new_supplemental_groups": 12,
+    "source_manifest": "kompilasi-v2/sumber-manifest.json"
   }
 }

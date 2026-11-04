@@ -7,3 +7,5 @@ Dokumentasi pribadi **Financial Management: Theory and Practice, 15e**.
 Buka [folder buku dan panduan](Brigham%20%26%20Ehrhardt/README.md) atau [daftar isi](Brigham%20%26%20Ehrhardt/SUMMARY.md).
 
 Teks 26 bab dan bagian tambahan tersedia dalam Markdown dengan rujukan halaman. Lihat STATUS.md dalam folder buku untuk membedakan konversi teks, kajian yang sudah dihitung ulang, dan pekerjaan yang belum selesai.
+
+[Pembaruan dari dua file kompilasi v2 — 197 entri terpetakan](Brigham%20%26%20Ehrhardt/kompilasi-v2/README.md), termasuk 12 kelompok pelengkap dan penjelasan/koreksi penggunaan rumus.

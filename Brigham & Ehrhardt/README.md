@@ -26,3 +26,7 @@ Teks sumber dipertahankan dalam blok per halaman agar simbol yang rusak tidak di
 **Cakupan arsip teks lengkap menurut penanda halaman. Kajian manual seluruh 236 persamaan bernomor yang ditemukan di 26 bab utama selesai dan dilengkapi 44 catatan pendamping. Semua 298 pemeriksaan hitung lulus. Pembahasan seluruh soal serta rekonstruksi semua tabel/grafik tetap merupakan pekerjaan terpisah yang belum selesai. PDF asli disertakan.** Lihat STATUS.md untuk rincian. Konfigurasi `.gitbook.yaml` di root menyiapkan struktur impor; situs GitBook belum diterbitkan.
 
 Repository ini privat. Hak cipta buku tetap pada penulis/penerbit; arsip ini tidak memberikan lisensi distribusi ulang.
+
+## Pembaruan kompilasi v2
+
+[Kompilasi terintegrasi 197 entri](kompilasi-v2/README.md) menggabungkan pembacaan dua file kiriman, lengkap dengan pemetaan, pelengkap, dan catatan koreksi. Batas bentuk arsip Word dijelaskan pada halaman integrasi.
