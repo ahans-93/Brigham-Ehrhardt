@@ -1,0 +1,1801 @@
+{
+  "status": "PASS",
+  "checks": 298,
+  "coverage": {
+    "unique_numbered": 236,
+    "display_locations": 244,
+    "missing": [],
+    "unexpected": [],
+    "duplicates": 0
+  },
+  "results": [
+    {
+      "name": "1-1",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "2-1",
+      "actual": 120,
+      "expected": 120,
+      "status": "PASS"
+    },
+    {
+      "name": "2-2",
+      "actual": 120,
+      "expected": 120,
+      "status": "PASS"
+    },
+    {
+      "name": "2-3",
+      "actual": 75.0,
+      "expected": 75,
+      "status": "PASS"
+    },
+    {
+      "name": "2-4",
+      "actual": 100,
+      "expected": 100,
+      "status": "PASS"
+    },
+    {
+      "name": "2-5",
+      "actual": 300,
+      "expected": 300,
+      "status": "PASS"
+    },
+    {
+      "name": "2-6",
+      "actual": 300,
+      "expected": 300,
+      "status": "PASS"
+    },
+    {
+      "name": "2-7",
+      "actual": 280,
+      "expected": 280,
+      "status": "PASS"
+    },
+    {
+      "name": "2-8",
+      "actual": 10,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "2-9",
+      "actual": 10,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "2-9a",
+      "actual": -260,
+      "expected": -260,
+      "status": "PASS"
+    },
+    {
+      "name": "2-9b",
+      "actual": -260,
+      "expected": -260,
+      "status": "PASS"
+    },
+    {
+      "name": "2-10",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "2-11",
+      "actual": 0.06,
+      "expected": 0.06,
+      "status": "PASS"
+    },
+    {
+      "name": "2-11a",
+      "actual": 0.06,
+      "expected": 0.06,
+      "status": "PASS"
+    },
+    {
+      "name": "2-12",
+      "actual": 0.6,
+      "expected": 0.6,
+      "status": "PASS"
+    },
+    {
+      "name": "2-12a",
+      "actual": 0.61,
+      "expected": 0.61,
+      "status": "PASS"
+    },
+    {
+      "name": "2-13",
+      "actual": 200,
+      "expected": 200,
+      "status": "PASS"
+    },
+    {
+      "name": "2-13a",
+      "actual": 200,
+      "expected": 200,
+      "status": "PASS"
+    },
+    {
+      "name": "2-14",
+      "actual": 10.0,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "2-15",
+      "actual": 9.999999999999998,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "3-1",
+      "actual": 3.0,
+      "expected": 3,
+      "status": "PASS"
+    },
+    {
+      "name": "3-2",
+      "actual": 0.30000000000000004,
+      "expected": 0.3,
+      "status": "PASS"
+    },
+    {
+      "name": "3-3",
+      "actual": 0.30000000000000004,
+      "expected": 0.3,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-01",
+      "actual": 2.0,
+      "expected": 2,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-02",
+      "actual": 1.2,
+      "expected": 1.2,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-03",
+      "actual": 2.0,
+      "expected": 2,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-04",
+      "actual": 1.25,
+      "expected": 1.25,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-05",
+      "actual": 4.0,
+      "expected": 4,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-06",
+      "actual": 0.375,
+      "expected": 0.375,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-07",
+      "actual": 0.25,
+      "expected": 0.25,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-08",
+      "actual": 4.166666666666667,
+      "expected": 4.16666666666667,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-09",
+      "actual": 4.333333333333333,
+      "expected": 4.33333333333333,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-10",
+      "actual": 0.4,
+      "expected": 0.4,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-11",
+      "actual": 0.3,
+      "expected": 0.3,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-12",
+      "actual": 6.136363636363636,
+      "expected": 6.13636363636364,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-13",
+      "actual": 5.0,
+      "expected": 5,
+      "status": "PASS"
+    },
+    {
+      "name": "U-3-14",
+      "actual": 1.5,
+      "expected": 1.5,
+      "status": "PASS"
+    },
+    {
+      "name": "4-1",
+      "actual": 121.00000000000001,
+      "expected": 121,
+      "status": "PASS"
+    },
+    {
+      "name": "4-2",
+      "actual": -1.4210854715202004e-14,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "name": "4-3",
+      "actual": 99.99999999999999,
+      "expected": 100,
+      "status": "PASS"
+    },
+    {
+      "name": "4-4",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "4-5",
+      "actual": 209.99999999999997,
+      "expected": 210,
+      "status": "PASS"
+    },
+    {
+      "name": "4-6",
+      "actual": 0.0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "name": "4-7",
+      "actual": 231.00000000000003,
+      "expected": 231,
+      "status": "PASS"
+    },
+    {
+      "name": "4-8",
+      "actual": 173.55371900826447,
+      "expected": 173.55371900826447,
+      "status": "PASS"
+    },
+    {
+      "name": "4-9",
+      "actual": 190.90909090909093,
+      "expected": 190.9090909090909,
+      "status": "PASS"
+    },
+    {
+      "name": "4-10",
+      "actual": 199.99999999999997,
+      "expected": 200,
+      "status": "PASS"
+    },
+    {
+      "name": "4-11",
+      "actual": 331.0,
+      "expected": 331,
+      "status": "PASS"
+    },
+    {
+      "name": "4-12",
+      "actual": 0.01,
+      "expected": 0.01,
+      "status": "PASS"
+    },
+    {
+      "name": "4-13",
+      "actual": 126.24769600000003,
+      "expected": 126.247696,
+      "status": "PASS"
+    },
+    {
+      "name": "4-14",
+      "actual": 0.12360000000000015,
+      "expected": 0.1236,
+      "status": "PASS"
+    },
+    {
+      "name": "4-15",
+      "actual": 0.04761904761904767,
+      "expected": 0.04761904761904767,
+      "status": "PASS"
+    },
+    {
+      "name": "U-4-01",
+      "actual": 0.10000000000000009,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "U-4-02",
+      "actual": 23739.640043118965,
+      "expected": 23739.640043119,
+      "status": "PASS"
+    },
+    {
+      "name": "U-4-03",
+      "actual": 120.0,
+      "expected": 120,
+      "status": "PASS"
+    },
+    {
+      "name": "5-1",
+      "actual": 999.9999999999998,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "5-1a",
+      "actual": 999.9999999999993,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "5-1b",
+      "actual": 999.9999999999998,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "5-2",
+      "actual": 999.9999999999999,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "5-3",
+      "actual": 0.09999999999999998,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "5-4",
+      "actual": 0.09999999999999998,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "5-5",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "5-6",
+      "actual": 0.085,
+      "expected": 0.085,
+      "status": "PASS"
+    },
+    {
+      "name": "5-7",
+      "actual": 0.03,
+      "expected": 0.03,
+      "status": "PASS"
+    },
+    {
+      "name": "U-5-01",
+      "actual": 0.07120000000000015,
+      "expected": 0.0712,
+      "status": "PASS"
+    },
+    {
+      "name": "6-1",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-2",
+      "actual": 0.010000000000000002,
+      "expected": 0.01,
+      "status": "PASS"
+    },
+    {
+      "name": "6-3",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-4",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-5",
+      "actual": 0.14142135623730953,
+      "expected": 0.1414213562373095,
+      "status": "PASS"
+    },
+    {
+      "name": "6-6",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-7",
+      "actual": 1.0,
+      "expected": 1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-8",
+      "actual": 1.2,
+      "expected": 1.2,
+      "status": "PASS"
+    },
+    {
+      "name": "6-9",
+      "actual": 1.2,
+      "expected": 1.2,
+      "status": "PASS"
+    },
+    {
+      "name": "6-10",
+      "actual": 0.05760000000000001,
+      "expected": 0.0576,
+      "status": "PASS"
+    },
+    {
+      "name": "6-11",
+      "actual": 0.24,
+      "expected": 0.24,
+      "status": "PASS"
+    },
+    {
+      "name": "6-12",
+      "actual": 0.24,
+      "expected": 0.24,
+      "status": "PASS"
+    },
+    {
+      "name": "6-13",
+      "actual": 0.048,
+      "expected": 0.048,
+      "status": "PASS"
+    },
+    {
+      "name": "6-14",
+      "actual": 1.2,
+      "expected": 1.2,
+      "status": "PASS"
+    },
+    {
+      "name": "6-15",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-16",
+      "actual": 0.06,
+      "expected": 0.06,
+      "status": "PASS"
+    },
+    {
+      "name": "6-17",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-18",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-19",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "6-20",
+      "actual": 0.057,
+      "expected": 0.057,
+      "status": "PASS"
+    },
+    {
+      "name": "U-6-01",
+      "actual": 0.062,
+      "expected": 0.062,
+      "status": "PASS"
+    },
+    {
+      "name": "7-1",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "7-2",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "7-2a",
+      "actual": 100.0,
+      "expected": 100,
+      "status": "PASS"
+    },
+    {
+      "name": "7-3",
+      "actual": 1050,
+      "expected": 1050,
+      "status": "PASS"
+    },
+    {
+      "name": "7-4",
+      "actual": 700,
+      "expected": 700,
+      "status": "PASS"
+    },
+    {
+      "name": "7-5",
+      "actual": 7.0,
+      "expected": 7,
+      "status": "PASS"
+    },
+    {
+      "name": "7-6",
+      "actual": 105.0,
+      "expected": 105,
+      "status": "PASS"
+    },
+    {
+      "name": "7-7",
+      "actual": 121.00000000000001,
+      "expected": 121,
+      "status": "PASS"
+    },
+    {
+      "name": "7-8",
+      "actual": 2099.999999999998,
+      "expected": 2100,
+      "status": "PASS"
+    },
+    {
+      "name": "7-9",
+      "actual": 2100.0,
+      "expected": 2100,
+      "status": "PASS"
+    },
+    {
+      "name": "7-10",
+      "actual": 2100.0,
+      "expected": 2100,
+      "status": "PASS"
+    },
+    {
+      "name": "7-11",
+      "actual": 2100.0,
+      "expected": 2100,
+      "status": "PASS"
+    },
+    {
+      "name": "7-12",
+      "actual": 999.9999999999999,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "7-13",
+      "actual": 215.0,
+      "expected": 215,
+      "status": "PASS"
+    },
+    {
+      "name": "7-14",
+      "actual": 0.15,
+      "expected": 0.15,
+      "status": "PASS"
+    },
+    {
+      "name": "7-15",
+      "actual": 215.0,
+      "expected": 215,
+      "status": "PASS"
+    },
+    {
+      "name": "7-16",
+      "actual": 100.0,
+      "expected": 100,
+      "status": "PASS"
+    },
+    {
+      "name": "7-17",
+      "actual": 84.0,
+      "expected": 84,
+      "status": "PASS"
+    },
+    {
+      "name": "7-18",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "7-19",
+      "actual": 84.0,
+      "expected": 84,
+      "status": "PASS"
+    },
+    {
+      "name": "7-20",
+      "actual": 80.0,
+      "expected": 80,
+      "status": "PASS"
+    },
+    {
+      "name": "7-21",
+      "actual": 100.0,
+      "expected": 100,
+      "status": "PASS"
+    },
+    {
+      "name": "7-22",
+      "actual": 0.08,
+      "expected": 0.08,
+      "status": "PASS"
+    },
+    {
+      "name": "8-1",
+      "actual": 15,
+      "expected": 15,
+      "status": "PASS"
+    },
+    {
+      "name": "8-2",
+      "actual": 0.5,
+      "expected": 0.5,
+      "status": "PASS"
+    },
+    {
+      "name": "8-3",
+      "actual": 11.904761904761905,
+      "expected": 11.9047619047619,
+      "status": "PASS"
+    },
+    {
+      "name": "8-4",
+      "actual": 0.5952380952380953,
+      "expected": 0.5952380952380952,
+      "status": "PASS"
+    },
+    {
+      "name": "8-5",
+      "actual": 0.357142857142857,
+      "expected": 0.3571428571428571,
+      "status": "PASS"
+    },
+    {
+      "name": "8-6",
+      "actual": 11.904761904761905,
+      "expected": 11.9047619047619,
+      "status": "PASS"
+    },
+    {
+      "name": "8-7",
+      "actual": 1.2214027581601699,
+      "expected": 1.22140275816017,
+      "status": "PASS"
+    },
+    {
+      "name": "8-8",
+      "actual": 0.8187307530779818,
+      "expected": 0.818730753077982,
+      "status": "PASS"
+    },
+    {
+      "name": "8-9",
+      "actual": 10.450583572185565,
+      "expected": 10.4505835721856,
+      "status": "PASS"
+    },
+    {
+      "name": "8-10",
+      "actual": 0.35000000000000003,
+      "expected": 0.35,
+      "status": "PASS"
+    },
+    {
+      "name": "8-11",
+      "actual": 0.14999999999999997,
+      "expected": 0.15,
+      "status": "PASS"
+    },
+    {
+      "name": "8-12",
+      "actual": 5.573526022256971,
+      "expected": 5.57352602225697,
+      "status": "PASS"
+    },
+    {
+      "name": "8-13",
+      "actual": 5.5735260222569565,
+      "expected": 5.57352602225697,
+      "status": "PASS"
+    },
+    {
+      "name": "U-8-01",
+      "actual": 15,
+      "expected": 15,
+      "status": "PASS"
+    },
+    {
+      "name": "9-1",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "9-2",
+      "actual": 0.0915,
+      "expected": 0.0915,
+      "status": "PASS"
+    },
+    {
+      "name": "9-3",
+      "actual": 0.06,
+      "expected": 0.06,
+      "status": "PASS"
+    },
+    {
+      "name": "9-4",
+      "actual": 0.11578947368421055,
+      "expected": 0.115789473684211,
+      "status": "PASS"
+    },
+    {
+      "name": "9-5",
+      "actual": 0.08333333333333333,
+      "expected": 0.0833333333333333,
+      "status": "PASS"
+    },
+    {
+      "name": "9-6",
+      "actual": 0.09,
+      "expected": 0.09,
+      "status": "PASS"
+    },
+    {
+      "name": "9-7",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "9-8",
+      "actual": 1.2,
+      "expected": 1.2,
+      "status": "PASS"
+    },
+    {
+      "name": "9-9",
+      "actual": 80.0,
+      "expected": 80,
+      "status": "PASS"
+    },
+    {
+      "name": "9-10",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "9-11",
+      "actual": 0.06,
+      "expected": 0.06,
+      "status": "PASS"
+    },
+    {
+      "name": "9-12",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "9-13",
+      "actual": 0.1,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "10-1",
+      "actual": 9.999999999999986,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "10-2",
+      "actual": 0.20999999999999985,
+      "expected": 0.21,
+      "status": "PASS"
+    },
+    {
+      "name": "10-2a",
+      "actual": 0.10000000000000009,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "10-2b",
+      "actual": 0.10000000000000009,
+      "expected": 0.1,
+      "status": "PASS"
+    },
+    {
+      "name": "10-3",
+      "actual": 1.0999999999999999,
+      "expected": 1.1,
+      "status": "PASS"
+    },
+    {
+      "name": "10-4",
+      "actual": 1.75,
+      "expected": 1.75,
+      "status": "PASS"
+    },
+    {
+      "name": "U-10-01",
+      "actual": 2.5,
+      "expected": 2.5,
+      "status": "PASS"
+    },
+    {
+      "name": "U-10-02",
+      "actual": 40.21148036253776,
+      "expected": 40.211480362538,
+      "status": "PASS"
+    },
+    {
+      "name": "U-11-01",
+      "actual": 32.5,
+      "expected": 32.5,
+      "status": "PASS"
+    },
+    {
+      "name": "U-11-02",
+      "actual": -100,
+      "expected": -100,
+      "status": "PASS"
+    },
+    {
+      "name": "U-11-03",
+      "actual": 42.5,
+      "expected": 42.5,
+      "status": "PASS"
+    },
+    {
+      "name": "U-11-04",
+      "actual": 82.5,
+      "expected": 82.5,
+      "status": "PASS"
+    },
+    {
+      "name": "U-11-05",
+      "actual": 450.0,
+      "expected": 450,
+      "status": "PASS"
+    },
+    {
+      "name": "U-11-06",
+      "actual": 88.999644001424,
+      "expected": 88.999644001424,
+      "status": "PASS"
+    },
+    {
+      "name": "12-1",
+      "actual": -16.0,
+      "expected": -16,
+      "status": "PASS"
+    },
+    {
+      "name": "12-2",
+      "actual": 0.13636363636363635,
+      "expected": 0.136363636363636,
+      "status": "PASS"
+    },
+    {
+      "name": "12-3",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "12-4",
+      "actual": 0.2,
+      "expected": 0.2,
+      "status": "PASS"
+    },
+    {
+      "name": "12-5",
+      "actual": 240.0,
+      "expected": 240,
+      "status": "PASS"
+    },
+    {
+      "name": "U-13-01",
+      "actual": 1000,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "14-1",
+      "actual": 40.0,
+      "expected": 40,
+      "status": "PASS"
+    },
+    {
+      "name": "14-2",
+      "actual": 10.0,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "14-3",
+      "actual": 90.0,
+      "expected": 90,
+      "status": "PASS"
+    },
+    {
+      "name": "U-14-01",
+      "actual": 0.09,
+      "expected": 0.09,
+      "status": "PASS"
+    },
+    {
+      "name": "U-14-02",
+      "actual": 20.0,
+      "expected": 20,
+      "status": "PASS"
+    },
+    {
+      "name": "15-1",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "15-2",
+      "actual": 0.096,
+      "expected": 0.096,
+      "status": "PASS"
+    },
+    {
+      "name": "15-3",
+      "actual": 0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "name": "15-4",
+      "actual": 25.0,
+      "expected": 25,
+      "status": "PASS"
+    },
+    {
+      "name": "15-5",
+      "actual": 1000,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "15-6",
+      "actual": 0.12000000000000001,
+      "expected": 0.12,
+      "status": "PASS"
+    },
+    {
+      "name": "15-7",
+      "actual": 1050,
+      "expected": 1050,
+      "status": "PASS"
+    },
+    {
+      "name": "15-8",
+      "actual": 1050.0,
+      "expected": 1050,
+      "status": "PASS"
+    },
+    {
+      "name": "15-9",
+      "actual": 0.115,
+      "expected": 0.115,
+      "status": "PASS"
+    },
+    {
+      "name": "15-10",
+      "actual": 1025.3333333333333,
+      "expected": 1025.33333333333,
+      "status": "PASS"
+    },
+    {
+      "name": "15-10a",
+      "actual": 0.24571428571428566,
+      "expected": 0.245714285714286,
+      "status": "PASS"
+    },
+    {
+      "name": "15-11",
+      "actual": 1.1,
+      "expected": 1.1,
+      "status": "PASS"
+    },
+    {
+      "name": "15-11a",
+      "actual": 1.1,
+      "expected": 1.1,
+      "status": "PASS"
+    },
+    {
+      "name": "15-12",
+      "actual": 0.8,
+      "expected": 0.8,
+      "status": "PASS"
+    },
+    {
+      "name": "15-13",
+      "actual": 10.0,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "15-14",
+      "actual": 90.0,
+      "expected": 90,
+      "status": "PASS"
+    },
+    {
+      "name": "15-15",
+      "actual": 1800.0000000000002,
+      "expected": 1800,
+      "status": "PASS"
+    },
+    {
+      "name": "15-16",
+      "actual": 90.0,
+      "expected": 90,
+      "status": "PASS"
+    },
+    {
+      "name": "15-17",
+      "actual": 20.0,
+      "expected": 20,
+      "status": "PASS"
+    },
+    {
+      "name": "15-18",
+      "actual": 10.450583572185565,
+      "expected": 10.4505835721856,
+      "status": "PASS"
+    },
+    {
+      "name": "15-19",
+      "actual": 0.15000000000000002,
+      "expected": 0.15,
+      "status": "PASS"
+    },
+    {
+      "name": "15-20",
+      "actual": 0.1180339887498949,
+      "expected": 0.118033988749895,
+      "status": "PASS"
+    },
+    {
+      "name": "16-1",
+      "actual": 70,
+      "expected": 70,
+      "status": "PASS"
+    },
+    {
+      "name": "16-2",
+      "actual": 50.0,
+      "expected": 50,
+      "status": "PASS"
+    },
+    {
+      "name": "16-3",
+      "actual": 30.0,
+      "expected": 30,
+      "status": "PASS"
+    },
+    {
+      "name": "16-4",
+      "actual": 30.0,
+      "expected": 30,
+      "status": "PASS"
+    },
+    {
+      "name": "16-5",
+      "actual": 30000,
+      "expected": 30000,
+      "status": "PASS"
+    },
+    {
+      "name": "16-5a",
+      "actual": 1920000,
+      "expected": 1920000,
+      "status": "PASS"
+    },
+    {
+      "name": "16-6",
+      "actual": 0.37244897959183676,
+      "expected": 0.372448979591837,
+      "status": "PASS"
+    },
+    {
+      "name": "U-16-01",
+      "actual": 0.4458529273124856,
+      "expected": 0.44585292704786,
+      "status": "PASS"
+    },
+    {
+      "name": "17-1",
+      "actual": 15588.235294117647,
+      "expected": 15588.2352941176,
+      "status": "PASS"
+    },
+    {
+      "name": "17-1a",
+      "actual": 0.027867220417726823,
+      "expected": 0.027867220417726823,
+      "status": "PASS"
+    },
+    {
+      "name": "17-2",
+      "actual": 150.0,
+      "expected": 150,
+      "status": "PASS"
+    },
+    {
+      "name": "17-3",
+      "actual": 1.5,
+      "expected": 1.5,
+      "status": "PASS"
+    },
+    {
+      "name": "17-4",
+      "actual": 1.5882133306781974,
+      "expected": 1.5882133306781974,
+      "status": "PASS"
+    },
+    {
+      "name": "U-17-01",
+      "actual": 16500.0,
+      "expected": 16500,
+      "status": "PASS"
+    },
+    {
+      "name": "18-1",
+      "actual": 0.2,
+      "expected": 0.2,
+      "status": "PASS"
+    },
+    {
+      "name": "18-1a",
+      "actual": 20.0,
+      "expected": 20,
+      "status": "PASS"
+    },
+    {
+      "name": "18-2",
+      "actual": 119.0,
+      "expected": 119,
+      "status": "PASS"
+    },
+    {
+      "name": "18-3",
+      "actual": 9.900990099009901,
+      "expected": 9.9009900990099,
+      "status": "PASS"
+    },
+    {
+      "name": "18-4",
+      "actual": 0.16806722689075632,
+      "expected": 0.168067226890756,
+      "status": "PASS"
+    },
+    {
+      "name": "U-18-01",
+      "actual": 0.19999999999999996,
+      "expected": 0.2,
+      "status": "PASS"
+    },
+    {
+      "name": "19-1",
+      "actual": 2.8299999999999983,
+      "expected": 2.83,
+      "status": "PASS"
+    },
+    {
+      "name": "U-19-01",
+      "actual": -15.0,
+      "expected": -15,
+      "status": "PASS"
+    },
+    {
+      "name": "20-1",
+      "actual": 170.27127439517142,
+      "expected": 170.271274371586,
+      "status": "PASS"
+    },
+    {
+      "name": "20-2",
+      "actual": 55.55555555555556,
+      "expected": 55.5555555555556,
+      "status": "PASS"
+    },
+    {
+      "name": "20-3",
+      "actual": 20.0,
+      "expected": 20,
+      "status": "PASS"
+    },
+    {
+      "name": "20-4",
+      "actual": 829.7287256048286,
+      "expected": 829.728725628414,
+      "status": "PASS"
+    },
+    {
+      "name": "U-20-01",
+      "actual": 1200,
+      "expected": 1200,
+      "status": "PASS"
+    },
+    {
+      "name": "21-1",
+      "actual": 1070,
+      "expected": 1070,
+      "status": "PASS"
+    },
+    {
+      "name": "21-1a",
+      "actual": 1080,
+      "expected": 1080,
+      "status": "PASS"
+    },
+    {
+      "name": "21-2",
+      "actual": 1000.0,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "21-3",
+      "actual": 1250.0,
+      "expected": 1250,
+      "status": "PASS"
+    },
+    {
+      "name": "21-4",
+      "actual": 4.0,
+      "expected": 4,
+      "status": "PASS"
+    },
+    {
+      "name": "21-5",
+      "actual": 50.0,
+      "expected": 50,
+      "status": "PASS"
+    },
+    {
+      "name": "21-6",
+      "actual": 19.125,
+      "expected": 19.125,
+      "status": "PASS"
+    },
+    {
+      "name": "21-7",
+      "actual": 1019.125,
+      "expected": 1019.125,
+      "status": "PASS"
+    },
+    {
+      "name": "21-8",
+      "actual": 0.11812500000000001,
+      "expected": 0.118125,
+      "status": "PASS"
+    },
+    {
+      "name": "21-9",
+      "actual": 1.353125,
+      "expected": 1.353125,
+      "status": "PASS"
+    },
+    {
+      "name": "21-10",
+      "actual": 1000,
+      "expected": 1000,
+      "status": "PASS"
+    },
+    {
+      "name": "21-11",
+      "actual": 0.12000000000000001,
+      "expected": 0.12,
+      "status": "PASS"
+    },
+    {
+      "name": "21-12",
+      "actual": 1050.0,
+      "expected": 1050,
+      "status": "PASS"
+    },
+    {
+      "name": "21-13",
+      "actual": 0.115,
+      "expected": 0.115,
+      "status": "PASS"
+    },
+    {
+      "name": "21-14",
+      "actual": 1.1,
+      "expected": 1.1,
+      "status": "PASS"
+    },
+    {
+      "name": "21-15",
+      "actual": 1019.125,
+      "expected": 1019.125,
+      "status": "PASS"
+    },
+    {
+      "name": "21-16",
+      "actual": 0.13,
+      "expected": 0.13,
+      "status": "PASS"
+    },
+    {
+      "name": "21-16a",
+      "actual": 0.118,
+      "expected": 0.118,
+      "status": "PASS"
+    },
+    {
+      "name": "21-17",
+      "actual": 1.1,
+      "expected": 1.1,
+      "status": "PASS"
+    },
+    {
+      "name": "21-17a",
+      "actual": 1.2000000000000002,
+      "expected": 1.2,
+      "status": "PASS"
+    },
+    {
+      "name": "21-18",
+      "actual": 1275.0,
+      "expected": 1275,
+      "status": "PASS"
+    },
+    {
+      "name": "21-19",
+      "actual": 1218.181818181818,
+      "expected": 1218.18181818182,
+      "status": "PASS"
+    },
+    {
+      "name": "21-20",
+      "actual": 105.0,
+      "expected": 105,
+      "status": "PASS"
+    },
+    {
+      "name": "21-20a",
+      "actual": 65,
+      "expected": 65,
+      "status": "PASS"
+    },
+    {
+      "name": "21-21",
+      "actual": 500.0,
+      "expected": 500,
+      "status": "PASS"
+    },
+    {
+      "name": "21-22",
+      "actual": 612.0000000000001,
+      "expected": 612,
+      "status": "PASS"
+    },
+    {
+      "name": "21-23",
+      "actual": 580.3571428571428,
+      "expected": 580.357142857143,
+      "status": "PASS"
+    },
+    {
+      "name": "21-24",
+      "actual": 800.0,
+      "expected": 800,
+      "status": "PASS"
+    },
+    {
+      "name": "21-25",
+      "actual": 1019.9999999999999,
+      "expected": 1020,
+      "status": "PASS"
+    },
+    {
+      "name": "21-26",
+      "actual": 972.7272727272725,
+      "expected": 972.727272727273,
+      "status": "PASS"
+    },
+    {
+      "name": "21-27",
+      "actual": 7.768595041322314,
+      "expected": 7.76859504132231,
+      "status": "PASS"
+    },
+    {
+      "name": "21-28",
+      "actual": 63.74999999999999,
+      "expected": 63.75,
+      "status": "PASS"
+    },
+    {
+      "name": "21-29",
+      "actual": 60.45454545454544,
+      "expected": 60.4545454545455,
+      "status": "PASS"
+    },
+    {
+      "name": "22-1",
+      "actual": 0.13,
+      "expected": 0.13,
+      "status": "PASS"
+    },
+    {
+      "name": "22-1a",
+      "actual": 0.11793200000000001,
+      "expected": 0.117932,
+      "status": "PASS"
+    },
+    {
+      "name": "22-2",
+      "actual": 0.8999999999999999,
+      "expected": 0.9,
+      "status": "PASS"
+    },
+    {
+      "name": "U-22-01",
+      "actual": 15,
+      "expected": 15,
+      "status": "PASS"
+    },
+    {
+      "name": "U-23-01",
+      "actual": 500,
+      "expected": 500,
+      "status": "PASS"
+    },
+    {
+      "name": "U-23-02",
+      "actual": 10.0,
+      "expected": 10,
+      "status": "PASS"
+    },
+    {
+      "name": "U-23-03",
+      "actual": 4999.999999999997,
+      "expected": 5000,
+      "status": "PASS"
+    },
+    {
+      "name": "U-23-04",
+      "actual": 2000.0,
+      "expected": 2000,
+      "status": "PASS"
+    },
+    {
+      "name": "U-24-01",
+      "actual": 20,
+      "expected": 20,
+      "status": "PASS"
+    },
+    {
+      "name": "U-24-02",
+      "actual": 0.5,
+      "expected": 0.5,
+      "status": "PASS"
+    },
+    {
+      "name": "25-1",
+      "actual": 0.096,
+      "expected": 0.096,
+      "status": "PASS"
+    },
+    {
+      "name": "25-1a",
+      "actual": 0.085,
+      "expected": 0.085,
+      "status": "PASS"
+    },
+    {
+      "name": "25-2",
+      "actual": 0.1118033988749895,
+      "expected": 0.111803398874989,
+      "status": "PASS"
+    },
+    {
+      "name": "25-2a",
+      "actual": 0.15000000000000002,
+      "expected": 0.15,
+      "status": "PASS"
+    },
+    {
+      "name": "25-2b",
+      "actual": 0.15000000000000002,
+      "expected": 0.15,
+      "status": "PASS"
+    },
+    {
+      "name": "25-3",
+      "actual": 0.2,
+      "expected": 0.2,
+      "status": "PASS"
+    },
+    {
+      "name": "25-4",
+      "actual": 0.092,
+      "expected": 0.092,
+      "status": "PASS"
+    },
+    {
+      "name": "25-5",
+      "actual": 0.0175,
+      "expected": 0.0175,
+      "status": "PASS"
+    },
+    {
+      "name": "25-5a",
+      "actual": 0.0175,
+      "expected": 0.0175,
+      "status": "PASS"
+    },
+    {
+      "name": "25-6",
+      "actual": 0.08499999999999999,
+      "expected": 0.085,
+      "status": "PASS"
+    },
+    {
+      "name": "25-7",
+      "actual": 0.11199999999999999,
+      "expected": 0.112,
+      "status": "PASS"
+    },
+    {
+      "name": "25-8",
+      "actual": 1.2,
+      "expected": 1.2,
+      "status": "PASS"
+    },
+    {
+      "name": "25-9",
+      "actual": 0.11199999999999999,
+      "expected": 0.112,
+      "status": "PASS"
+    },
+    {
+      "name": "25-10",
+      "actual": 0.04999999999999999,
+      "expected": 0.05,
+      "status": "PASS"
+    },
+    {
+      "name": "25-11",
+      "actual": 0.038000000000000006,
+      "expected": 0.038,
+      "status": "PASS"
+    },
+    {
+      "name": "25-12",
+      "actual": 0.033,
+      "expected": 0.033,
+      "status": "PASS"
+    },
+    {
+      "name": "25-13",
+      "actual": 0.4,
+      "expected": 0.4,
+      "status": "PASS"
+    },
+    {
+      "name": "25-14",
+      "actual": 0.05,
+      "expected": 0.05,
+      "status": "PASS"
+    },
+    {
+      "name": "25-15",
+      "actual": 0.06760000000000002,
+      "expected": 0.0676,
+      "status": "PASS"
+    },
+    {
+      "name": "25-16",
+      "actual": 1.355,
+      "expected": 1.355,
+      "status": "PASS"
+    },
+    {
+      "name": "25-17",
+      "actual": 0.11400000000000002,
+      "expected": 0.114,
+      "status": "PASS"
+    },
+    {
+      "name": "25-18",
+      "actual": 0.119,
+      "expected": 0.119,
+      "status": "PASS"
+    },
+    {
+      "name": "25-19",
+      "actual": 0.11,
+      "expected": 0.11,
+      "status": "PASS"
+    },
+    {
+      "name": "26-1",
+      "actual": 0.19958829169267261,
+      "expected": 0.199588290852251,
+      "status": "PASS"
+    },
+    {
+      "name": "26-1a",
+      "actual": 0.44675305448611385,
+      "expected": 0.446753052987471,
+      "status": "PASS"
+    },
+    {
+      "name": "U-26-01",
+      "actual": 7,
+      "expected": 7,
+      "status": "PASS"
+    },
+    {
+      "name": "PV annuity vs direct sum",
+      "actual": 753.6078016925105,
+      "expected": 753.6078016925104,
+      "status": "PASS"
+    },
+    {
+      "name": "FV annuity vs direct sum",
+      "actual": 1897.7126460237225,
+      "expected": 1897.7126460237237,
+      "status": "PASS"
+    },
+    {
+      "name": "Zero-interest annuity limit",
+      "actual": 12,
+      "expected": 12,
+      "status": "PASS"
+    },
+    {
+      "name": "Due timing vs explicit sum",
+      "actual": 813.8964258279115,
+      "expected": 813.8964258279112,
+      "status": "PASS"
+    },
+    {
+      "name": "Bond annuity vs direct cash flows",
+      "actual": 929.7641845906737,
+      "expected": 929.7641845906735,
+      "status": "PASS"
+    },
+    {
+      "name": "Yield inversion",
+      "actual": 0.06999999999999995,
+      "expected": 0.07,
+      "status": "PASS"
+    },
+    {
+      "name": "IRR NPV residual",
+      "actual": 2.842170943040401e-14,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "name": "Discounted state prices sum",
+      "actual": 0.9523809523809523,
+      "expected": 0.9523809523809523,
+      "status": "PASS"
+    },
+    {
+      "name": "Binomial replication vs risk-neutral value",
+      "actual": 11.904761904761905,
+      "expected": 11.904761904761905,
+      "status": "PASS"
+    },
+    {
+      "name": "Put-call parity",
+      "actual": 4.877057549928601,
+      "expected": 4.877057549928594,
+      "status": "PASS"
+    },
+    {
+      "name": "Hamada reverse transformation",
+      "actual": 0.8,
+      "expected": 0.8,
+      "status": "PASS"
+    },
+    {
+      "name": "CAPV beta inverse with risky debt",
+      "actual": 0.8,
+      "expected": 0.8,
+      "status": "PASS"
+    },
+    {
+      "name": "MM APV vs WACC same assumptions",
+      "actual": 1049.9999999999998,
+      "expected": 1050.0,
+      "status": "PASS"
+    },
+    {
+      "name": "Minimum variance derivative",
+      "actual": 0.0,
+      "expected": 0,
+      "status": "PASS"
+    },
+    {
+      "name": "Minimum variance beats neighbors",
+      "actual": 1.0,
+      "expected": 1,
+      "status": "PASS"
+    },
+    {
+      "name": "Printed adjusted beta fixed-point diagnostic",
+      "actual": 1.02,
+      "expected": 1.02,
+      "status": "PASS"
+    },
+    {
+      "name": "Convex adjusted beta fixed point",
+      "actual": 1.0,
+      "expected": 1,
+      "status": "PASS"
+    },
+    {
+      "name": "Lognormal CV inverse",
+      "actual": 0.4700000000000001,
+      "expected": 0.47,
+      "status": "PASS"
+    }
+  ]
+}

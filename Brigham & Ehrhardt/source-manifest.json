@@ -222,5 +222,19 @@
   "manual_formula_verification_complete": false,
   "web_chapters_27_30_included": false,
   "source_pdf_sha256": "1638b312422c14a3b870c27fd16f4498ba5ed3de8cb63ea278ad1ab4862ce56c",
-  "source_pdf_filename": "Financial_Management_Theory_and_Practice_15e.pdf"
+  "source_pdf_filename": "Financial_Management_Theory_and_Practice_15e.pdf",
+  "formula_review": {
+    "date": "2026-11-04",
+    "index": "kajian-rumus/README.md",
+    "unique_numbered_equations": 236,
+    "display_locations": 244,
+    "supplemental_notes": 44,
+    "numerical_checks": 298,
+    "status": "PASS",
+    "scope": "Numbered equations in main chapters 1-26; supplementary formula families and formalizations. Not a complete manual solution of all problems or spreadsheet cells."
+  },
+  "latest_reupload_reference": {
+    "library_file_id": "libfile_2fb3aff245b4819195d50a3a22bf3efa",
+    "validation": "Reupload identity checked against edition, ISBN, page count, size, and selected content; bytewise comparison of newly reuploaded Library object not claimed. Archived original PDF unchanged."
+  }
 }

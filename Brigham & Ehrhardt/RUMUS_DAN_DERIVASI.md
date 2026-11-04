@@ -1,5 +1,7 @@
 # Register rumus dan derivasi
 
+**Pembaruan 4 November 2026:** [kajian manual per persamaan](kajian-rumus/README.md) mencakup 236 persamaan bernomor unik dan 44 catatan pendamping, dengan rujukan PDF, variabel, penurunan, syarat, contoh, dan verifikasi hitung. Gunakan [catatan kritis](kajian-rumus/CATATAN_KRITIS.md) untuk ambiguitas atau potensi masalah cetak. Dokumen di bawah tetap menjadi ringkasan lintas topik.
+
 [Daftar isi](SUMMARY.md) · [Teks Appendix C](29-appendix-c.md) · [Pembahasan soal](PEMBAHASAN_SOAL.md)
 
 Register ini menuliskan kembali kelompok rumus utama dalam notasi yang terbaca, dengan penjelasan asumsi. Acuannya adalah Appendix C, PDF 1122–1134 (halaman cetak 1085–1097), serta bab terkait. Seluruh 13 halaman persamaan Appendix C sudah diperiksa secara visual terhadap PDF asli. Appendix C sendiri berjudul **Selected Equations**, sehingga daftar ini tidak dinyatakan sebagai semua persamaan buku. Rumus di bawah merupakan penulisan ulang konseptual dengan tambahan konteks; simbol yang rusak pada ekstraksi sumber tetap dapat dilihat di file sumber.
