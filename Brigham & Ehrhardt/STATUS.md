@@ -41,4 +41,4 @@ Koneksi HTTPS langsung terminal ke github.com:443 belum diperbaiki. Adaptor sesi
 
 ## Pembaruan dari dua file kompilasi v2
 
-Sebanyak 197 entri kiriman sudah dipetakan; tersedia 12 kelompok kajian pendamping dan 50 entri dengan penjelasan/koreksi khusus. Seluruh 30 pemeriksaan numerik tambahan lulus, dan 340 pemeriksaan sebelumnya tetap lulus. Kajian lama dipertahankan. Lihat [status integrasi](kompilasi-v2/README.md). Markdown masukan dan ekstraksi lengkap isi Word disertakan; biner Word asli belum dapat diunduh. Pekerjaan ini tidak mengubah status penyelesaian seluruh soal buku.
+Sebanyak 197 entri kiriman sudah dipetakan; tersedia 12 kelompok kajian pendamping dan 50 entri dengan penjelasan/koreksi khusus. Seluruh 30 pemeriksaan numerik tambahan lulus, dan 340 pemeriksaan sebelumnya tetap lulus. Kajian lama dipertahankan. Lihat [status integrasi](kompilasi-v2/README.md). Markdown masukan dan ekstraksi lengkap isi Word disertakan. Pada 5 November 2026, berkas Word asli dan Markdown/LaTeX terbaru juga telah ditambahkan; lihat [arsip asli](kompilasi-v2/sumber/unggahan-2026-11-05/README.md). Pekerjaan ini tidak mengubah status penyelesaian seluruh soal buku.

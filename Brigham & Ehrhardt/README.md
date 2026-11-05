@@ -30,3 +30,5 @@ Repository ini privat. Hak cipta buku tetap pada penulis/penerbit; arsip ini tid
 ## Pembaruan kompilasi v2
 
 [Kompilasi terintegrasi 197 entri](kompilasi-v2/README.md) menggabungkan pembacaan dua file kiriman, lengkap dengan pemetaan, pelengkap, dan catatan koreksi. Batas bentuk arsip Word dijelaskan pada halaman integrasi.
+
+Pembaruan 5 November 2026: [Word asli dan Markdown/LaTeX terbaru](kompilasi-v2/sumber/unggahan-2026-11-05/README.md) sudah diarsipkan dan diintegrasikan.

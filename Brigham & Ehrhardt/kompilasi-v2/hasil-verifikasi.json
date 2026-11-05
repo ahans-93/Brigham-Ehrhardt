@@ -4,6 +4,9 @@
   "new_supplemental_groups": 12,
   "annotated_entries": 50,
   "numeric_checks": 30,
+  "archived_original_files": 2,
+  "curated_math_segments_checked": 219,
+  "math_check_scope": "delimiter and grouping balance; not a full TeX rendering test",
   "mapping_errors": [],
   "checks": [
     {

@@ -242,6 +242,9 @@
     "index": "kompilasi-v2/README.md",
     "mapped_entries": 197,
     "new_supplemental_groups": 12,
-    "source_manifest": "kompilasi-v2/sumber-manifest.json"
+    "source_manifest": "kompilasi-v2/sumber-manifest.json",
+    "latest_recheck": "2026-11-05",
+    "original_word_binary_archived": true,
+    "latest_archive": "kompilasi-v2/verifikasi-arsip-2026-11-05.json"
   }
 }

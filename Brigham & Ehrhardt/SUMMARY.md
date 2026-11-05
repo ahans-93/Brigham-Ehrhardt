@@ -6,6 +6,7 @@
 - [Integrasi kompilasi v2: 197 entri](kompilasi-v2/README.md)
   - [Semua rumus terintegrasi](kompilasi-v2/KOMPILASI_TERINTEGRASI.md)
   - [Pelengkap kajian v2](kompilasi-v2/LENGKAPAN.md)
+  - [Unduh file asli Word dan Markdown](kompilasi-v2/sumber/unggahan-2026-11-05/README.md)
 - [Kajian manual persamaan](kajian-rumus/README.md)
   - [Bab 1: kajian rumus](kajian-rumus/bab-01.md)
   - [Bab 2: kajian rumus](kajian-rumus/bab-02.md)

@@ -1,0 +1,32 @@
+{
+  "date": "2026-11-05",
+  "status": "PASS",
+  "markdown_entries": 197,
+  "word_table_entries": 197,
+  "word_tables": 23,
+  "unchanged_name_chapter_page_description": true,
+  "markdown_formula_fields_reformatted": 197,
+  "local_markdown_matches_library_read_bytes": true,
+  "word_197_rows_all_four_fields_match_prior_source": true,
+  "note": "Word archived unchanged from local original of matching size and 197 matching table rows; bytewise comparison against remote Library Word object not claimed.",
+  "files": [
+    {
+      "repository_path": "Brigham & Ehrhardt/kompilasi-v2/sumber/unggahan-2026-11-05/Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2.docx",
+      "canonical_filename": "Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2.docx",
+      "uploaded_filename": "Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2(1).docx",
+      "library_file_id": "libfile_19d9ec9e9acc8191a89f772b66883d71",
+      "size_bytes": 58473,
+      "sha256": "484021fc24be022c29b8a7efcae56c46be7e116c892aa355c8d6ea8a95e961cd",
+      "git_blob_sha": "ba7de541eace48b81a578945a6043fe7931e53e8"
+    },
+    {
+      "repository_path": "Brigham & Ehrhardt/kompilasi-v2/sumber/unggahan-2026-11-05/Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2.md",
+      "canonical_filename": "Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2.md",
+      "uploaded_filename": "Kompilasi_Lengkap_Rumus_Financial_Management_Brigham_Ehrhardt_v2 (1).md",
+      "library_file_id": "libfile_3e72bbec85708191925c48b7317ad59c",
+      "size_bytes": 77008,
+      "sha256": "4df07ea5adb036d692200c123295a1d5fa03dbca10fbfa30f72249d85de0205e",
+      "git_blob_sha": "4df71dc017294095bd4ea387a719ae1b7df8bcc3"
+    }
+  ]
+}

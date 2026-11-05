@@ -23,9 +23,13 @@ NCF tidak disamakan dengan CFO/FCF; inventory turnover pada HPP dibedakan dari v
 
 Kompilasi v2 tidak mempunyai bagian tersendiri untuk Bab 13, 23, dan 24. Dokumentasi ketiga bab itu tetap tersedia dalam kajian lama. PDF asli, 26 bab teks sumber, 236 kajian bernomor, dan materi latihan tidak dihapus. Klaim kelengkapan judul masukan tidak dijadikan bukti bahwa semua soal atau sel spreadsheet telah diperiksa.
 
-## Bentuk berkas yang tersimpan
+## Bentuk berkas yang tersimpan — diperbarui 5 November 2026
 
-Markdown disimpan dari pembacaan teks lengkap, dengan ukuran UTF-8 cocok 82.969 byte. Isi Word disimpan sebagai **ekstraksi teks lengkap**, bukan berkas `.docx` asli: pembacaan tersedia tetapi unduhan binernya gagal. Berkas Word asli masih dapat dibuka pemilik melalui [tautan berkas asal](https://chatgpt.com/library?file_id=libfile_8d3bdb02ec3881918db848017353c866&account_id=personal). Tidak ada berkas hasil konversi yang diberi label seolah-olah merupakan biner Word asli.
+[Kedua file asli sudah tersimpan](sumber/unggahan-2026-11-05/README.md): Word `.docx` 58.473 byte dan Markdown/LaTeX terbaru 77.008 byte. File asli disalin tanpa perubahan dari Downloads. Unduhan melalui koneksi berkas sempat gagal; kekurangan arsip Word pada pembaruan sebelumnya kini diselesaikan melalui salinan lokal yang ditemukan pada jendela Downloads.
+
+Markdown cocok byte demi byte dengan pembacaan unggahan terbaru. Word diperiksa sebagai paket DOCX valid berisi 23 tabel dan 197 baris rumus; seluruh nama, formula teks, halaman, dan keterangan cocok dengan sumber kompilasi sebelumnya setelah normalisasi format/spasi. [Hasil verifikasi dan SHA-256](verifikasi-arsip-2026-11-05.json) disertakan. Ekstraksi teks lama dipertahankan sebagai jejak pembacaan awal.
+
+Seluruh 197 kolom formula masukan terbaru sudah diperbarui ke LaTeX pada data pemetaan dan kompilasi terintegrasi. Nama rumus, bab, halaman, dan keterangan tidak berubah; 50 catatan penjelasan/koreksi tetap dipakai. Format LaTeX bukan bukti bahwa setiap rumus masukan sudah benar tanpa syarat.
 
 ## Pemeriksaan
 

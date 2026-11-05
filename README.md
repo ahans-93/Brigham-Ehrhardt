@@ -9,3 +9,5 @@ Buka [folder buku dan panduan](Brigham%20%26%20Ehrhardt/README.md) atau [daftar 
 Teks 26 bab dan bagian tambahan tersedia dalam Markdown dengan rujukan halaman. Lihat STATUS.md dalam folder buku untuk membedakan konversi teks, kajian yang sudah dihitung ulang, dan pekerjaan yang belum selesai.
 
 [Pembaruan dari dua file kompilasi v2 — 197 entri terpetakan](Brigham%20%26%20Ehrhardt/kompilasi-v2/README.md), termasuk 12 kelompok pelengkap dan penjelasan/koreksi penggunaan rumus.
+
+Pembaruan 5 November 2026: [Word asli dan Markdown/LaTeX terbaru](Brigham%20%26%20Ehrhardt/kompilasi-v2/sumber/unggahan-2026-11-05/README.md) sudah diarsipkan dan diintegrasikan.
